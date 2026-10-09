@@ -1,5 +1,5 @@
 TELETOFUS — A CULPA DE ALTHERYN — VOLUME 4: A ALMA DA HIDRA
-ROTEIRO REVISADO PARA O N8N 
+ROTEIRO REVISADO
 
 COMO USAR: cada página vai de uma linha "PÁGINA ..." (ou CAPA / CONTRACAPA) até a próxima linha "=====". Regras e fichas em GUIA_HQ.md.
 
