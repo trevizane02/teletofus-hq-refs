@@ -1,0 +1,35 @@
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (10) — são a identidade visual oficial:
+1. estilo_santuario.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. eve_flecha.jpg = Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen
+3. will_01.jpg = identidade de WILL
+4. will_09.jpg = identidade de WILL
+5. iske_01.jpg = identidade de ISKE
+6. iske_09.jpg = identidade de ISKE
+7. eve_01.jpg = identidade de EVE
+8. eve_09.jpg = identidade de EVE
+9. maya_01.jpg = identidade de MAYA
+10. derken_01.jpg = identidade de DERKEN
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
+ISKE: cabelo preto curto, sem barba, couro preto com rebites (NÃO armadura de metal), machado de UMA lâmina em meia-lua.
+EVE: loira, rabo de cavalo alto, armadura de placas prateada com detalhes dourados, tabardo azul petróleo, capa clara, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO muito cacheado e volumoso (nunca ruivo), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 10 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 20 — 3 quadros (interior da masmorra, escuro, úmido, luz verde fraca e tochas)
+
+QUADRO 1 (plano geral, quadro grande): Corredores de pedra alagados, água escura até os joelhos. Ossos e restos de armaduras de antigos aventureiros presos nas paredes cobertas de musgo; escamas gigantes e antigas boiando na água. Os cinco avançando em fila, Derken à frente com uma tocha, Iske amparando Eve, que segue com a flecha cravada na parte superior esquerda do abdômen.
+Recordatório: "MUITOS TINHAM ENTRADO ALI ANTES DELES. NENHUM TINHA SAÍDO."
+
+QUADRO 2 (plano médio): Derken agachado, levantando da água uma escama verde-musgo do tamanho de um escudo. Will atrás, com cara de pavor.
+Balão de Derken: "SE UMA ESCAMA TEM ESSE TAMANHO..."
+Balão de Will: "POR FAVOR, NÃO TERMINA ESSA FRASE."
+
+QUADRO 3 (close): Maya parada, os olhos brilhando em verde por trás dos óculos redondos, como quando ela sente o fluxo de mana. Expressão serena e triste.
+Balão de Maya: "EU SINTO ELA. LÁ EMBAIXO. É UMA PRESENÇA VELHA... E CANSADA."

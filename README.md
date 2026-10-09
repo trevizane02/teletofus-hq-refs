@@ -3,7 +3,8 @@
 Repositório de referência para gerar as páginas da HQ **Teletofus — A Culpa de Altheryn**.
 
 - **`GUIA_HQ.md`** — regras oficiais: estilo, balões, grade, fichas dos personagens e continuidade. **Leia antes de gerar.**
-- **`roteiros/`** — roteiros revisados, página por página, e `vol4_prompts_com_referencias.txt` (prompt de cada página já com os links das referências).
+- **`roteiros/`** — roteiro revisado do Vol. 4.
+- **`paginas_vol4/`** — UMA PASTA POR PÁGINA com o `prompt.txt` e as imagens que devem ser ANEXADAS junto (links não funcionam como referência visual no ChatGPT). Veja `paginas_vol4/LEIA-ME.txt`.
 - **`refs/`** — imagens de referência:
   - `<personagem>_01.jpg` a `_18.jpg` (01 = retrato de frente; tabela completa no guia)
   - `estilo_taverna / estilo_santuario / estilo_floresta / estilo_fogueira.jpg` — páginas aprovadas (acabamento)

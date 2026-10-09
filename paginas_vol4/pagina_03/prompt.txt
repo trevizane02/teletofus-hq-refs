@@ -1,0 +1,30 @@
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (5) — são a identidade visual oficial:
+1. estilo_taverna.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. aventureiro_01.jpg = identidade de AVENTUREIRO
+3. aventureiro_02.jpg = identidade de AVENTUREIRO
+4. vorteus_01.jpg = identidade de VORTEUS
+5. vorteus_05.jpg = identidade de VORTEUS
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+AVENTUREIRO: cabelo castanho cacheado curto, sem barba, cachecol e capa pretos, roupa de couro escura.
+VORTEUS: cabelo preto longo e cacheado, bigode e cavanhaque, brincos de argola dourados, casaco roxo bordado em dourado.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 5 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 3 — 4 quadros horizontais empilhados (taverna, depois transição)
+
+QUADRO 1 (plano médio): Vorteus servindo vinho na própria taça, olhando para a taça e não para o Aventureiro.
+Balão de Vorteus: "A EVE NÃO MORREU NAQUELA NOITE."
+
+QUADRO 2 (primeiro plano): O Aventureiro solta o ar, aliviado, encostando na cadeira.
+Balão do Aventureiro: "EU SABIA."
+
+QUADRO 3 (close dramático): Vorteus ergue os olhos, sério, sem sorriso, rosto iluminado pela vela.
+Balão de Vorteus: "EU NÃO DISSE QUE FOI BOM."
+Balão de Vorteus: "TEM COISA PIOR QUE MORRER, GAROTO. UMA DELAS É DEIXAR DE SER VOCÊ AOS POUCOS."
+
+QUADRO 4 (quadro de transição): A chama da vela em primeiro plano se dissolve em um brilho verde espectral, revelando ao fundo os corredores de raízes do Santuário de Altheryn, escuros, com veias verdes luminosas. Nenhum personagem neste quadro.
+Recordatório: "VOLTEMOS AO SANTUÁRIO. AO INSTANTE EM QUE A FLECHA ENCONTROU SEU ALVO."

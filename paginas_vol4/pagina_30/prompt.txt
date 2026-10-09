@@ -1,0 +1,41 @@
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (10) — são a identidade visual oficial:
+1. estilo_santuario.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. fragmento_mana.jpg = fragmento de mana (cristal verde)
+3. will_01.jpg = identidade de WILL
+4. will_09.jpg = identidade de WILL
+5. iske_01.jpg = identidade de ISKE
+6. iske_09.jpg = identidade de ISKE
+7. eve_01.jpg = identidade de EVE
+8. eve_05.jpg = identidade de EVE
+9. maya_01.jpg = identidade de MAYA
+10. derken_01.jpg = identidade de DERKEN
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
+ISKE: cabelo preto curto, sem barba, couro preto com rebites (NÃO armadura de metal), machado de UMA lâmina em meia-lua.
+EVE: loira, rabo de cavalo alto, armadura de placas prateada com detalhes dourados, tabardo azul petróleo, capa clara, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO muito cacheado e volumoso (nunca ruivo), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 10 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 30 — 5 quadros (depois da cura)
+LAYOUT: 1 | 2 | 3+4 | 5
+
+QUADRO 1 (plano médio): Eve desaba nos braços de Maya, SEM a flecha, respirando normalmente, as veias verdes desaparecidas; na parte superior esquerda do abdômen, só um rasgo na armadura e uma ferida já fechada. No antebraço dela, a marca voltou a ser dourada, mas com uma pequena cicatriz verde permanente no centro.
+
+QUADRO 2 (close): Eve abre os olhos e sorri, cansada mas inteira, o rosto limpo de novo.
+Balão de Eve: "EU FALEI... QUE EU ERA BONITA DEMAIS PRA MORRER ASSIM."
+
+QUADRO 3 (plano de detalhe): A mão de Will tirando da água a flecha expelida; a ponta é um pequeno fragmento de mana: cristal verde-esmeralda, translúcido e facetado, com um brilho fraco por dentro.
+
+QUADRO 4 (plano de detalhe): A mão de Iske tirando do saco de couro a outra flecha do caçador, a que errou o alvo e ficou cravada nas raízes do santuário: a ponta é o mesmo cristal verde-esmeralda facetado. As duas pontas de cristal lado a lado, idênticas.
+Balão de Will (vindo de fora do quadro): "ISSO NÃO É PONTA DE FLECHA COMUM. É UM FRAGMENTO DE MANA."
+Balão de Will (vindo de fora do quadro): "ALGUÉM PRENDEU ALGUMA COISA AQUI DENTRO."
+
+QUADRO 5 (primeiro plano): Derken sério, olhando para os dois cristais, rosto iluminado pelo brilho verde.
+Balão de Derken: "ENTÃO QUEM ATIROU NÃO QUERIA MATAR A EVE. QUERIA COLOCAR ISSO DENTRO DELA."
+Recordatório: "NENHUM DELES LEMBROU DO PEQUENO BRILHO VERDE NO CARRINHO DO GOBLIN. AINDA."

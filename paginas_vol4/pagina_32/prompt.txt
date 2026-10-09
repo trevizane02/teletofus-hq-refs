@@ -1,0 +1,33 @@
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (5) — são a identidade visual oficial:
+1. estilo_taverna.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. aventureiro_01.jpg = identidade de AVENTUREIRO
+3. aventureiro_05.jpg = identidade de AVENTUREIRO
+4. vorteus_01.jpg = identidade de VORTEUS
+5. vorteus_07.jpg = identidade de VORTEUS
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+AVENTUREIRO: cabelo castanho cacheado curto, sem barba, cachecol e capa pretos, roupa de couro escura.
+VORTEUS: cabelo preto longo e cacheado, bigode e cavanhaque, brincos de argola dourados, casaco roxo bordado em dourado.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 5 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 32 — 5 quadros (Taverna do Corvo Torto, fecho do volume)
+LAYOUT: 1+2 | 3 | 4 | 5
+
+QUADRO 1 (primeiro plano): O Aventureiro inquieto, quase se levantando da cadeira.
+Balão do Aventureiro: "ENTÃO ME CONTA. QUEM É ELE?"
+
+QUADRO 2 (plano médio): Vorteus sorrindo de novo, recuperando o jeito de sempre, enchendo a taça do Aventureiro com uma jarra.
+Balão de Vorteus: "AH, ESSA É UMA HISTÓRIA BEM MAIS ANTIGA QUE A DOS CINCO. TEM DOIS IRMÃOS NELA."
+
+QUADRO 3 (close): O Aventureiro intrigado, sobrancelhas franzidas.
+Balão do Aventureiro: "DOIS IRMÃOS?"
+
+QUADRO 4 (plano geral da taverna): A taverna cheia vista de longe. Num canto escuro, uma figura encapuzada se levanta e sai pela porta; pela fresta do capuz, um leve brilho arroxeado. Vorteus e o Aventureiro pequenos na mesa ao fundo.
+Balão de Vorteus: "OUTRA NOITE, GAROTO. OUTRA NOITE."
+
+QUADRO 5 (plano de detalhe): A moeda dourada com a árvore gravada sobre a mesa, ao lado de uma vela e da taça cheia de vinho.
+Recordatório: "TODO FAVOR TEM UM PREÇO. ALGUNS SÓ SÃO COBRADOS MUITO TEMPO DEPOIS."

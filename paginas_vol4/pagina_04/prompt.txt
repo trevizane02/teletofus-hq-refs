@@ -1,0 +1,38 @@
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (10) — são a identidade visual oficial:
+1. estilo_santuario.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. eve_flecha.jpg = Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen
+3. will_01.jpg = identidade de WILL
+4. will_09.jpg = identidade de WILL
+5. iske_01.jpg = identidade de ISKE
+6. iske_09.jpg = identidade de ISKE
+7. eve_01.jpg = identidade de EVE
+8. eve_17.jpg = identidade de EVE
+9. maya_01.jpg = identidade de MAYA
+10. derken_01.jpg = identidade de DERKEN
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
+ISKE: cabelo preto curto, sem barba, couro preto com rebites (NÃO armadura de metal), machado de UMA lâmina em meia-lua.
+EVE: loira, rabo de cavalo alto, armadura de placas prateada com detalhes dourados, tabardo azul petróleo, capa clara, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO muito cacheado e volumoso (nunca ruivo), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 10 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 4 — 4 quadros (interior do santuário, escuro, raízes e brilho verde)
+
+QUADRO 1 (plano conjunto, quadro grande): Eve caída de costas no chão de pedra coberto de raízes, com uma flecha cravada na parte superior esquerda do abdômen dela, logo abaixo da placa do peito. Maya ajoelhada, segurando a cabeça de Eve no colo, desesperada. O escudo de Eve caído ao lado.
+Balão de Maya: "EVE! FICA COMIGO, POR FAVOR!"
+
+QUADRO 2 (plano médio): Derken com o arco tensionado e uma flecha encaixada, girando o corpo, procurando o atirador entre as raízes escuras.
+Balão de Derken: "CADÊ ELE? CADÊ ELE?"
+
+QUADRO 3 (plano médio): Will com a mão erguida; círculos mágicos azuis de detecção se apagando ao redor dele. Expressão frustrada.
+Balão de Will: "NADA. ELE NÃO ESTÁ EM LUGAR NENHUM."
+Balão de Will: "É COMO SE NUNCA TIVESSE EXISTIDO."
+
+QUADRO 4 (contra-plongée leve): Iske se posiciona na frente de Maya e Eve, machado erguido, encarando a escuridão, protetor. Eve continua caída no colo de Maya, atrás dele.
+Balão de Iske: "ENTÃO ELE AINDA ESTÁ AQUI."

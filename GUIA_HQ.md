@@ -51,7 +51,7 @@ Copie o acabamento destas páginas, nunca a cena delas.
 - Desenhe EXATAMENTE o número de quadros pedido, nem mais, nem menos.
 - Sem LAYOUT no roteiro:
   - até 4 quadros: empilhados na horizontal, cada um com a largura total;
-  - 5 quadros: os 4 primeiros em largura total, e o 4 e o 5 lado a lado na última linha.
+  - 5 quadros: os quadros 1, 2 e 3 em largura total; os quadros 4 e 5 lado a lado na última linha.
 - Se o roteiro trouxer `LAYOUT: 1 | 2 | 3+4 | 5`:
   - cada `|` é uma nova linha;
   - `3+4` são dois quadros lado a lado, de larguras iguais.
@@ -106,6 +106,14 @@ Escolha o retrato 01 mais a referência que combina com o cenário ou a ação d
   - Sorriso enorme de dentes afiados, capuz de couro com óculos de proteção, trapos mostarda e marrom.
   - Carrinho de madeira lotado, com um martelo de runas douradas no topo e, discreto, um cristal verde.
 - **A MARCA:** os Cinco (Will, Iske, Eve, Maya, Derken) têm no antebraço veias douradas luminosas, como raízes.
+
+### Fidelidade às referências (regra mais importante)
+- As imagens de referência ANEXADAS na mensagem são a identidade oficial dos personagens.
+- Links do GitHub NÃO servem como referência visual: sem as imagens anexadas, não gere a página de memória. Peça as imagens.
+- Preserve exatamente rosto, idade aparente, cabelo (cor e textura), barba (só quem tem: Vorteus), roupas, cores, armas e acessórios.
+- Não invente cajados, esferas, armaduras, barbas, cores de cabelo nem armas que não estejam nas referências e no roteiro.
+- A pose e a composição seguem o roteiro; a identidade segue as referências.
+- As páginas de estilo definem só o acabamento da pintura, nunca a aparência dos personagens.
 
 ### Regras de contagem
 - O grupo tem EXATAMENTE 5 heróis diferentes. Ninguém aparece duas vezes no mesmo quadro.

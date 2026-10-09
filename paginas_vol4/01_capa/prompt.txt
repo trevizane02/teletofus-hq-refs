@@ -1,0 +1,34 @@
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (10) — são a identidade visual oficial:
+1. estilo_floresta.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. hidra.jpg = a HIDRA: copie a aparência (5 cabeças) e acrescente a luz dourada no peito
+3. logo_teletofus.jpg = tipografia do título TELETOFUS
+4. logo_simbolo.jpg = símbolo da caveira encapuzada
+5. eve_flecha.jpg = Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen
+6. will_01.jpg = identidade de WILL
+7. iske_01.jpg = identidade de ISKE
+8. eve_01.jpg = identidade de EVE
+9. maya_01.jpg = identidade de MAYA
+10. derken_01.jpg = identidade de DERKEN
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
+ISKE: cabelo preto curto, sem barba, couro preto com rebites (NÃO armadura de metal), machado de UMA lâmina em meia-lua.
+EVE: loira, rabo de cavalo alto, armadura de placas prateada com detalhes dourados, tabardo azul petróleo, capa clara, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO muito cacheado e volumoso (nunca ruivo), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 10 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+CAPA — página inteira, sem quadros (pântano enevoado)
+
+Os cinco heróis (Will, Iske, Eve, Maya e Derken) atravessam um pântano enevoado, vistos de frente em plano conjunto, com água escura até os joelhos. Iske carrega Eve nos braços: ela está pálida, de olhos semicerrados, com uma flecha cravada na parte superior esquerda do abdômen, logo abaixo da placa do peito; no antebraço dela as veias douradas da marca estão rachadas, com veias verde-escuras subindo pelo pescoço. Maya caminha ao lado, preocupada, abraçando o livro. Will (sem óculos, chapéu de mago) e Derken (arco na mão) atentos, olhando ao redor.
+Ao fundo, dentro da névoa, a silhueta gigantesca da hidra com CINCO cabeças erguidas, igual à referência hidra.jpg, e um brilho dourado no centro do peito. No céu, fragmentos de terra flutuando, com raios esverdeados.
+Iluminação: névoa verde-musgo, brilho dourado distante, luz fria.
+- Título no topo, grande, em letras douradas envelhecidas: "TELETOFUS"
+- Logo abaixo do título: "— A CULPA DE ALTHERYN —"
+- Abaixo: "VOLUME 4"
+- Abaixo, em destaque: "A ALMA DA HIDRA"
+- No rodapé, ao lado do símbolo do Teletofus (caveira encapuzada dourada com rosa dos ventos): "MMORPG DE DIFICULDADE EXTREMA"

@@ -1,0 +1,37 @@
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (9) — são a identidade visual oficial:
+1. estilo_santuario.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. hidra.jpg = a HIDRA: copie a aparência (5 cabeças) e acrescente a luz dourada no peito
+3. eve_flecha.jpg = Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen
+4. will_01.jpg = identidade de WILL
+5. will_09.jpg = identidade de WILL
+6. eve_01.jpg = identidade de EVE
+7. eve_12.jpg = identidade de EVE
+8. maya_01.jpg = identidade de MAYA
+9. maya_09.jpg = identidade de MAYA
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
+EVE: loira, rabo de cavalo alto, armadura de placas prateada com detalhes dourados, tabardo azul petróleo, capa clara, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO muito cacheado e volumoso (nunca ruivo), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 9 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 24 — 4 quadros (combate)
+
+QUADRO 1 (plano médio): Will com o livro de feitiços aberto, olhos correndo pelas páginas, enquanto o caos acontece atrás dele: cabeças da hidra atacando, água espirrando.
+Balão de Will: "REGENERAÇÃO... É A MESMA LÓGICA DO CERVO DE RAÍZES NO SANTUÁRIO."
+Balão de Will: "SE EU SELAR O CORTE NA HORA, ELA NÃO REFAZ A CABEÇA!"
+
+QUADRO 2 (plano médio): Maya apontando para o peito da hidra, onde a luz dourada pulsa por baixo das escamas, olhos brilhando em verde.
+Balão de Maya: "E NÃO ADIANTA SÓ CORTAR!"
+Balão de Maya: "A ALMA DELA ESTÁ ALI, NO CENTRO, ONDE BRILHA. É ISSO QUE MANTÉM TUDO VIVO!"
+
+QUADRO 3 (primeiro plano): Will fechando o livro, determinado, mão brilhando em dourado.
+Balão de Will: "ISKE CORTA, EU SELO. DERKEN, MANTÉM AS CABEÇAS OCUPADAS. MAYA, GUIA A GENTE!"
+
+QUADRO 4 (plano médio): Eve encostada numa coluna quebrada, escudo no chão ao lado, ofegante, com a flecha cravada na parte superior esquerda do abdômen, observando. Will de costas em primeiro plano, virando o rosto para ela.
+Balão de Eve: "E EU?"
+Balão de Will: "VOCÊ FICA VIVA. É A SUA ÚNICA TAREFA."
