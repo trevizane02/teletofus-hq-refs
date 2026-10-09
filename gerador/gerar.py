@@ -147,12 +147,20 @@ def registrar_custo(pasta, linha):
 
 
 def expandir_paginas(arg):
-    if arg.lower() in ("capa", "contracapa"):
-        return [arg.lower()]
-    if "-" in arg:
-        a, b = arg.split("-")
-        return [str(i) for i in range(int(a), int(b) + 1)]
-    return [x.strip() for x in arg.split(",")]
+    """'capa,2-5' -> ['capa','2','3','4','5']"""
+    saida = []
+    for parte in arg.split(","):
+        parte = parte.strip().lower()
+        if not parte:
+            continue
+        if parte in ("capa", "contracapa"):
+            saida.append(parte)
+        elif "-" in parte:
+            a, b = parte.split("-")
+            saida += [str(i) for i in range(int(a), int(b) + 1)]
+        else:
+            saida.append(parte)
+    return saida
 
 
 def main():
@@ -163,6 +171,7 @@ def main():
     ap.add_argument("--ver", action="store_true", help="só mostra prompts e imagens, sem chamar a API")
     ap.add_argument("--modelo", default="", help="força um modelo (ex.: gemini-3-pro-image)")
     ap.add_argument("--nao-montar", action="store_true")
+    ap.add_argument("--pdf", action="store_true", help="no fim, junta as páginas pedidas num PDF")
     a = ap.parse_args()
 
     biblia = carregar_biblia()
@@ -217,6 +226,10 @@ def main():
         if not a.ver and not a.nao_montar:
             import montar
             montar.montar_pagina(a.volume, p)
+
+    if a.pdf and not a.ver:
+        import montar
+        montar.gerar_pdf(a.volume, expandir_paginas(a.paginas))
 
 
 if __name__ == "__main__":

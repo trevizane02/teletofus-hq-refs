@@ -296,10 +296,32 @@ def montar_pagina(volume, pagina):
     return destino
 
 
+def gerar_pdf(volume, paginas, nome_pdf=None):
+    """Junta as páginas montadas num PDF (na ordem pedida)."""
+    imgs = []
+    for p in paginas:
+        pag, nome = carregar_pagina(volume, p)
+        arq = SAIDA / volume / f"{nome}.png"
+        if arq.exists():
+            imgs.append(Image.open(arq).convert("RGB"))
+        else:
+            print(f" {nome}: ainda não montada, fica fora do PDF")
+    if not imgs:
+        print(" nenhuma página pronta para o PDF")
+        return None
+    destino = SAIDA / volume / (nome_pdf or f"Teletofus_{volume}_{paginas[0]}-{paginas[-1]}.pdf")
+    imgs[0].save(destino, save_all=True, append_images=imgs[1:], resolution=300)
+    print(f" PDF pronto: {destino.relative_to(SAIDA.parent)} ({len(imgs)} páginas)")
+    return destino
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         sys.exit(__doc__)
     from gerar import expandir_paginas
-    vol = sys.argv[2] if len(sys.argv) > 2 else "vol4"
-    for p in expandir_paginas(sys.argv[1]):
+    vol = next((x for x in sys.argv[2:] if not x.startswith("--")), "vol4")
+    paginas = expandir_paginas(sys.argv[1])
+    for p in paginas:
         montar_pagina(vol, p)
+    if "--pdf" in sys.argv:
+        gerar_pdf(vol, paginas)
