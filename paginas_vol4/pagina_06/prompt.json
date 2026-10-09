@@ -1,0 +1,163 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 6,
+  "descricao": "santuário, raízes se movendo",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadro 1 em largura total",
+    "linha 2: quadro 2 em largura total",
+    "linha 3: quadro 3 em largura total",
+    "linha 4: quadro 4 em largura total"
+  ],
+  "total_de_quadros": 4,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_santuario.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "fragmento_mana.jpg",
+      "uso": "fragmento de mana (cristal verde)"
+    },
+    {
+      "arquivo": "eve_flecha.jpg",
+      "uso": "Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen"
+    },
+    {
+      "arquivo": "will_13.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "will_09.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "iske_17.jpg",
+      "uso": "identidade de ISKE"
+    },
+    {
+      "arquivo": "eve_13.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "maya_13.jpg",
+      "uso": "identidade de MAYA"
+    },
+    {
+      "arquivo": "derken_13.jpg",
+      "uso": "identidade de DERKEN"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "WILL",
+      "referencias": [
+        "will_13.jpg",
+        "will_09.jpg"
+      ],
+      "ficha": "WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera."
+    },
+    {
+      "nome": "ISKE",
+      "referencias": [
+        "iske_17.jpg"
+      ],
+      "ficha": "ISKE: cabelo preto curto, rosto ESCANHOADO (só sombra de barba, NUNCA barba cheia), gibão de COURO PRETO com rebites (NUNCA placas de metal, NUNCA pele de animal ou pelo nos ombros), machado de UMA lâmina em meia-lua."
+    },
+    {
+      "nome": "EVE",
+      "referencias": [
+        "eve_flecha.jpg",
+        "eve_13.jpg"
+      ],
+      "ficha": "EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado."
+    },
+    {
+      "nome": "MAYA",
+      "referencias": [
+        "maya_13.jpg"
+      ],
+      "ficha": "MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro."
+    },
+    {
+      "nome": "DERKEN",
+      "referencias": [
+        "derken_13.jpg"
+      ],
+      "ficha": "DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {
+    "flecha_da_eve": "flecha CRAVADA na parte superior esquerda do abdômen (abaixo das costelas, lado do coração = à direita de quem olha), haste escura fina, penas verdes, inclinada para cima, um pouco de sangue. Igual a eve_flecha.jpg.",
+    "fragmento_de_mana": "cristal verde-esmeralda facetado, pequeno."
+  },
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "plano médio",
+      "cena": "Iske ajoelhado ao lado de Eve segura a haste da flecha cravada na parte superior esquerda do abdômen dela, pronto para puxar. Maya agarra o pulso dele, desesperada. Eve, de olhos semicerrados, geme de dor.",
+      "personagens_visiveis": [
+        "ISKE",
+        "EVE",
+        "MAYA"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "MAYA",
+          "texto_exato": "NÃO! SE ARRANCAR, ELA SANGRA ATÉ MORRER!"
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano de detalhe",
+      "cena": "A mão de Iske arrancando das raízes do chão a OUTRA flecha do caçador, a que errou o alvo. A ponta NÃO é de metal: é um cristal verde-esmeralda translúcido e facetado, brilhando por dentro (igual à referência do fragmento de mana). Ao fundo, desfocada, a outra mão de Iske abrindo um saco de couro para guardá-la.",
+      "personagens_visiveis": [
+        "ISKE"
+      ],
+      "textos": "nenhum texto"
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "plano geral",
+      "cena": "O chão do santuário treme; raízes enormes das paredes se movem e fecham os corredores. Will (sem óculos) olha ao redor, alarmado, com o livro aberto.",
+      "personagens_visiveis": [
+        "WILL"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "WILL",
+          "texto_exato": "O SANTUÁRIO ESTÁ MUDANDO DE NOVO. SE FICARMOS, FICAMOS PRESOS."
+        }
+      ]
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "plano médio",
+      "cena": "Derken aponta para um corredor ao fundo, por onde entra uma fresta de luz natural pálida e folhas sopradas pelo vento.",
+      "personagens_visiveis": [
+        "DERKEN"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "DERKEN",
+          "texto_exato": "ALI! TEM VENTO VINDO DE LÁ. É UMA SAÍDA."
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 9 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}

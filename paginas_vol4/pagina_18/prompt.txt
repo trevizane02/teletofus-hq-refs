@@ -1,0 +1,42 @@
+PÁGINA NOVA E INDEPENDENTE: ignore as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este prompt e as imagens anexadas nesta mensagem.
+
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (9) — são a identidade visual oficial:
+1. estilo_fogueira.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. eve_flecha.jpg = Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen
+3. will_13.jpg = identidade de WILL
+4. will_08.jpg = identidade de WILL
+5. eve_13.jpg = identidade de EVE
+6. eve_03.jpg = identidade de EVE
+7. maya_13.jpg = identidade de MAYA
+8. maya_03.jpg = identidade de MAYA
+9. derken_13.jpg = identidade de DERKEN
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura, pele de animal, vestido ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+ESTILO TRAVADO: o MESMO acabamento da página de estilo anexada. Realismo pictórico de fantasia sombria: pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). NÃO é anime, mangá ou cartum, e também NÃO é foto ou still de filme. Moldura: borda dourada fina com filigrana nos 4 cantos de cada quadro. Balões brancos com texto preto em fonte SERIFADA maiúscula.
+WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
+EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 9 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 18 — noite no pântano, fogueira.
+GRADE: 5 quadros em 4 linhas. Linha 1: QUADRO 1 (largura total). Linha 2: QUADRO 2 à esquerda e QUADRO 3 à direita, lado a lado, metade da largura cada. Linha 3: QUADRO 4 (largura total). Linha 4: QUADRO 5 (largura total).
+
+QUADRO 1 (close): Maya sem saber o que dizer, olhos cheios de lágrimas atrás dos óculos.
+Balão de Maya: "ENTÃO NÃO PARA. POR FAVOR."
+
+QUADRO 2 (primeiro plano): Eve solta uma risada curta e cansada, olhando para Maya com carinho.
+Balão de Eve: "ENGRAÇADO. LÁ NO SANTUÁRIO FUI EU QUE DISSE PRA VOCÊ FICAR ATRÁS DE MIM."
+
+QUADRO 3 (plano de detalhe): As mãos de Maya apertando a mão de Eve. No antebraço de Maya, a marca dourada; no de Eve, a marca rachada de verde.
+Balão de Maya: "AGORA É A MINHA VEZ."
+
+QUADRO 4 (plano médio): Do outro lado da fogueira, Derken observa as duas e vira o rosto para Will.
+Balão de Derken: "O GOBLIN DISSE QUE NÓS AJUDAMOS ELE. VOCÊ LEMBRA DE TER AJUDADO ALGUM GOBLIN?"
+
+QUADRO 5 (primeiro plano): Will (sem óculos) mexendo no fogo com um graveto, pensativo, rosto iluminado pelas brasas.
+Balão de Will: "NÃO. E É ISSO QUE ME INCOMODA."

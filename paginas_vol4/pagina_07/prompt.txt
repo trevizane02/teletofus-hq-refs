@@ -1,0 +1,35 @@
+PÁGINA NOVA E INDEPENDENTE: ignore as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este prompt e as imagens anexadas nesta mensagem.
+
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (9) — são a identidade visual oficial:
+1. estilo_santuario.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. eve_flecha.jpg = Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen
+3. will_13.jpg = identidade de WILL
+4. will_09.jpg = identidade de WILL
+5. iske_17.jpg = identidade de ISKE
+6. iske_09.jpg = identidade de ISKE
+7. eve_13.jpg = identidade de EVE
+8. maya_13.jpg = identidade de MAYA
+9. derken_13.jpg = identidade de DERKEN
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura, pele de animal, vestido ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+ESTILO TRAVADO: o MESMO acabamento da página de estilo anexada. Realismo pictórico de fantasia sombria: pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). NÃO é anime, mangá ou cartum, e também NÃO é foto ou still de filme. Moldura: borda dourada fina com filigrana nos 4 cantos de cada quadro. Balões brancos com texto preto em fonte SERIFADA maiúscula.
+WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
+ISKE: cabelo preto curto, rosto ESCANHOADO (só sombra de barba, NUNCA barba cheia), gibão de COURO PRETO com rebites (NUNCA placas de metal, NUNCA pele de animal ou pelo nos ombros), machado de UMA lâmina em meia-lua.
+EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 9 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 7 — fuga do santuário.
+GRADE: 3 quadros, um por linha, cada um ocupando a largura total.
+
+QUADRO 1 (plano conjunto, ação): Os cinco correndo por um corredor de raízes, da esquerda para a direita. Iske carrega Eve nos braços, com a flecha cravada na parte superior esquerda do abdômen, faixas improvisadas ao redor da haste. Will (sem óculos) e Maya logo atrás; Derken guiando à frente. Atrás deles, as raízes se fecham como uma boca.
+
+QUADRO 2 (plano geral, exterior): Os cinco saindo pela abertura na base de uma árvore colossal e retorcida, de volta à Floresta Sombria ao entardecer, luz azul fria. Atrás deles, as raízes fecham completamente a passagem.
+
+QUADRO 3 (plano de detalhe, escuro): A passagem de raízes quase fechada. No pequeno vão que resta, na escuridão, dois olhos verdes brilhando, observando. Nenhum personagem neste quadro.
+Recordatório no canto inferior esquerdo: "O SANTUÁRIO OS DEIXOU SAIR. TALVEZ PORQUE JÁ TIVESSE CONSEGUIDO O QUE QUERIA."

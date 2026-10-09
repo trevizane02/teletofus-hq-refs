@@ -1,0 +1,45 @@
+PÁGINA NOVA E INDEPENDENTE: ignore as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este prompt e as imagens anexadas nesta mensagem.
+
+Gere a página abaixo seguindo as instruções do projeto.
+
+IMAGENS ANEXADAS NESTA MENSAGEM (9) — são a identidade visual oficial:
+1. estilo_floresta.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
+2. eve_flecha.jpg = Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen
+3. will_13.jpg = identidade de WILL
+4. will_10.jpg = identidade de WILL
+5. iske_17.jpg = identidade de ISKE
+6. eve_13.jpg = identidade de EVE
+7. maya_13.jpg = identidade de MAYA
+8. derken_13.jpg = identidade de DERKEN
+9. gibby_13.jpg = identidade de GIBBY
+
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura, pele de animal, vestido ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+ESTILO TRAVADO: o MESMO acabamento da página de estilo anexada. Realismo pictórico de fantasia sombria: pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). NÃO é anime, mangá ou cartum, e também NÃO é foto ou still de filme. Moldura: borda dourada fina com filigrana nos 4 cantos de cada quadro. Balões brancos com texto preto em fonte SERIFADA maiúscula.
+WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
+ISKE: cabelo preto curto, rosto ESCANHOADO (só sombra de barba, NUNCA barba cheia), gibão de COURO PRETO com rebites (NUNCA placas de metal, NUNCA pele de animal ou pelo nos ombros), machado de UMA lâmina em meia-lua.
+EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
+GIBBY: goblin verde baixinho, orelhas pontudas com argolas, olhos amarelos, capuz de couro com óculos de proteção, trapos mostarda e marrom.
+
+Antes de gerar, confirme em uma linha que conseguiu ver as 9 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+
+ROTEIRO:
+PÁGINA 10 — estrada, manhã cinzenta.
+GRADE: 5 quadros em 4 linhas. Linha 1: QUADRO 1 (largura total). Linha 2: QUADRO 2 (largura total). Linha 3: QUADRO 3 (largura total). Linha 4: QUADRO 4 à esquerda e QUADRO 5 à direita, lado a lado, metade da largura cada.
+
+QUADRO 1 (plano médio): Gibby abre os braços, eufórico, ao lado do carrinho.
+Balão de Gibby: "OLÁ, HUMANOS MARAVILHOSOS! GIBBY AMAR HUMANOS! GIBBY AMAR MUITO HUMANOS! KI KI KI KI!"
+
+QUADRO 2 (plano conjunto): Os cinco em posição de defesa: Derken com o arco apontado, Will (sem óculos) com a mão erguida brilhando em azul, Iske virando o corpo para proteger Eve nos braços.
+Balão de Derken: "SAIA DAQUI, CRIATURA."
+Balão de Will: "GOBLIN SOZINHO NA ESTRADA NUNCA É GOBLIN SOZINHO."
+
+QUADRO 3 (plano médio): Gibby dá uma voltinha saltitante em torno do carrinho, ignorando as armas, com cara de felicidade exagerada.
+Balão de Gibby: "GIBBY ESTAR TÃO FELIZ HOJE! TÃO FELIZ! FELIZ GIBBY ESTAR!"
+
+QUADRO 4 (primeiro plano): Eve, nos braços de Iske, abre um olho com desconfiança e deboche.
+Balão de Eve: "FELIZ COM O QUÊ, POSSO SABER?"
+
+QUADRO 5 (close dramático): Gibby para de repente e encara Eve; o sorriso fica ainda maior e um pouco sinistro, olhos amarelos brilhando.
+Balão de Gibby: "AH... HUMANA NÃO PRECISAR SABER. KI KI KI."

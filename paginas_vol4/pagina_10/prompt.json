@@ -1,0 +1,199 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 10,
+  "descricao": "estrada, manhã cinzenta",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadro 1 em largura total",
+    "linha 2: quadro 2 em largura total",
+    "linha 3: quadro 3 em largura total",
+    "linha 4: quadros 4 e 5 lado a lado, larguras iguais"
+  ],
+  "total_de_quadros": 5,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_floresta.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "eve_flecha.jpg",
+      "uso": "Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen"
+    },
+    {
+      "arquivo": "will_13.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "will_10.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "iske_17.jpg",
+      "uso": "identidade de ISKE"
+    },
+    {
+      "arquivo": "eve_13.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "maya_13.jpg",
+      "uso": "identidade de MAYA"
+    },
+    {
+      "arquivo": "derken_13.jpg",
+      "uso": "identidade de DERKEN"
+    },
+    {
+      "arquivo": "gibby_13.jpg",
+      "uso": "identidade de GIBBY"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "WILL",
+      "referencias": [
+        "will_13.jpg",
+        "will_10.jpg"
+      ],
+      "ficha": "WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera."
+    },
+    {
+      "nome": "ISKE",
+      "referencias": [
+        "iske_17.jpg"
+      ],
+      "ficha": "ISKE: cabelo preto curto, rosto ESCANHOADO (só sombra de barba, NUNCA barba cheia), gibão de COURO PRETO com rebites (NUNCA placas de metal, NUNCA pele de animal ou pelo nos ombros), machado de UMA lâmina em meia-lua."
+    },
+    {
+      "nome": "EVE",
+      "referencias": [
+        "eve_flecha.jpg",
+        "eve_13.jpg"
+      ],
+      "ficha": "EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado."
+    },
+    {
+      "nome": "MAYA",
+      "referencias": [
+        "maya_13.jpg"
+      ],
+      "ficha": "MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro."
+    },
+    {
+      "nome": "DERKEN",
+      "referencias": [
+        "derken_13.jpg"
+      ],
+      "ficha": "DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO."
+    },
+    {
+      "nome": "GIBBY",
+      "referencias": [
+        "gibby_13.jpg"
+      ],
+      "ficha": "GIBBY: goblin verde baixinho, orelhas pontudas com argolas, olhos amarelos, capuz de couro com óculos de proteção, trapos mostarda e marrom."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {
+    "flecha_da_eve": "flecha CRAVADA na parte superior esquerda do abdômen (abaixo das costelas, lado do coração = à direita de quem olha), haste escura fina, penas verdes, inclinada para cima, um pouco de sangue. Igual a eve_flecha.jpg."
+  },
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "plano médio",
+      "cena": "Gibby abre os braços, eufórico, ao lado do carrinho.",
+      "personagens_visiveis": [
+        "GIBBY"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "GIBBY",
+          "texto_exato": "OLÁ, HUMANOS MARAVILHOSOS! GIBBY AMAR HUMANOS! GIBBY AMAR MUITO HUMANOS! KI KI KI KI!"
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano conjunto",
+      "cena": "Os cinco em posição de defesa: Derken com o arco apontado, Will (sem óculos) com a mão erguida brilhando em azul, Iske virando o corpo para proteger Eve nos braços.",
+      "personagens_visiveis": [
+        "WILL",
+        "ISKE",
+        "EVE",
+        "DERKEN",
+        "MAYA"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "DERKEN",
+          "texto_exato": "SAIA DAQUI, CRIATURA."
+        },
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "WILL",
+          "texto_exato": "GOBLIN SOZINHO NA ESTRADA NUNCA É GOBLIN SOZINHO."
+        }
+      ]
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "plano médio",
+      "cena": "Gibby dá uma voltinha saltitante em torno do carrinho, ignorando as armas, com cara de felicidade exagerada.",
+      "personagens_visiveis": [
+        "GIBBY"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "GIBBY",
+          "texto_exato": "GIBBY ESTAR TÃO FELIZ HOJE! TÃO FELIZ! FELIZ GIBBY ESTAR!"
+        }
+      ]
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "primeiro plano",
+      "cena": "Eve, nos braços de Iske, abre um olho com desconfiança e deboche.",
+      "personagens_visiveis": [
+        "ISKE",
+        "EVE"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "EVE",
+          "texto_exato": "FELIZ COM O QUÊ, POSSO SABER?"
+        }
+      ]
+    },
+    {
+      "quadro": 5,
+      "enquadramento": "close dramático",
+      "cena": "Gibby para de repente e encara Eve; o sorriso fica ainda maior e um pouco sinistro, olhos amarelos brilhando.",
+      "personagens_visiveis": [
+        "EVE",
+        "GIBBY"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "GIBBY",
+          "texto_exato": "AH... HUMANA NÃO PRECISAR SABER. KI KI KI."
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 9 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}
