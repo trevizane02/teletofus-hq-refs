@@ -1,0 +1,144 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 27,
+  "descricao": "4 quadros (clímax da batalha)",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadro 1 em largura total",
+    "linha 2: quadro 2 em largura total",
+    "linha 3: quadro 3 em largura total",
+    "linha 4: quadro 4 em largura total"
+  ],
+  "total_de_quadros": 4,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_santuario.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "hidra.jpg",
+      "uso": "a HIDRA: copie a aparência (5 cabeças) e acrescente a luz dourada no peito"
+    },
+    {
+      "arquivo": "eve_flecha.jpg",
+      "uso": "Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen"
+    },
+    {
+      "arquivo": "iske_17.jpg",
+      "uso": "identidade de ISKE"
+    },
+    {
+      "arquivo": "iske_09.jpg",
+      "uso": "identidade de ISKE"
+    },
+    {
+      "arquivo": "eve_13.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "eve_09.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "derken_13.jpg",
+      "uso": "identidade de DERKEN"
+    },
+    {
+      "arquivo": "derken_09.jpg",
+      "uso": "identidade de DERKEN"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "ISKE",
+      "referencias": [
+        "iske_17.jpg",
+        "iske_09.jpg"
+      ],
+      "ficha": "ISKE: cabelo preto curto, rosto ESCANHOADO (só sombra de barba, NUNCA barba cheia), gibão de COURO PRETO com rebites (NUNCA placas de metal, NUNCA pele de animal ou pelo nos ombros), machado de UMA lâmina em meia-lua."
+    },
+    {
+      "nome": "EVE",
+      "referencias": [
+        "eve_flecha.jpg",
+        "eve_13.jpg",
+        "eve_09.jpg"
+      ],
+      "ficha": "EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado."
+    },
+    {
+      "nome": "DERKEN",
+      "referencias": [
+        "derken_13.jpg",
+        "derken_09.jpg"
+      ],
+      "ficha": "DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {
+    "flecha_da_eve": "flecha CRAVADA na parte superior esquerda do abdômen (abaixo das costelas, lado do coração = à direita de quem olha), haste escura fina, penas verdes, inclinada para cima, um pouco de sangue. Igual a eve_flecha.jpg.",
+    "hidra": "EXATAMENTE 5 cabeças como em hidra.jpg, olhos amarelos, luz dourada pulsando no peito."
+  },
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "plano conjunto",
+      "cena": "Só resta a cabeça central da hidra; os outros pescoços estão cortados e selados com runas douradas. Iske prende a cabeça central contra o chão com o corpo inteiro, músculos tensos.",
+      "personagens_visiveis": [
+        "ISKE"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de grito com contorno pontiagudo",
+          "falante": "ISKE",
+          "texto_exato": "AGORA!"
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano de detalhe",
+      "cena": "Uma flecha de Derken crava entre as escamas do peito da hidra, abrindo uma fresta de onde escapa uma luz dourada intensa.",
+      "personagens_visiveis": [
+        "DERKEN"
+      ],
+      "textos": "nenhum texto"
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "plano médio, contra-plongée",
+      "cena": "Eve, cambaleando, com a flecha cravada na parte superior esquerda do abdômen, usa as últimas forças e crava a espada exatamente na fresta brilhante do peito da hidra. Luz dourada explodindo ao redor dela.",
+      "personagens_visiveis": [
+        "EVE"
+      ],
+      "textos": "nenhum texto"
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "close",
+      "cena": "O olho amarelo da hidra se acalma, quase aliviado, a luz se apagando suavemente.",
+      "personagens_visiveis": "nenhum personagem principal",
+      "textos": [
+        {
+          "tipo": "caixa preta com borda dourada, texto bege-dourado serifado, sem cauda",
+          "texto_exato": "ELA NÃO LUTAVA POR ÓDIO. LUTAVA PORQUE GUARDAVA ALGO."
+        },
+        {
+          "tipo": "caixa preta com borda dourada, texto bege-dourado serifado, sem cauda",
+          "texto_exato": "E, DEPOIS DE TANTOS SÉCULOS, ESTAVA CANSADA DE GUARDAR."
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 9 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}

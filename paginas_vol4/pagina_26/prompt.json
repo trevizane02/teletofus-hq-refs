@@ -1,0 +1,139 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 26,
+  "descricao": "4 quadros (combate, momento dramático)",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadro 1 em largura total",
+    "linha 2: quadro 2 em largura total",
+    "linha 3: quadro 3 em largura total",
+    "linha 4: quadro 4 em largura total"
+  ],
+  "total_de_quadros": 4,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_santuario.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "hidra.jpg",
+      "uso": "a HIDRA: copie a aparência (5 cabeças) e acrescente a luz dourada no peito"
+    },
+    {
+      "arquivo": "eve_flecha.jpg",
+      "uso": "Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen"
+    },
+    {
+      "arquivo": "eve_01.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "eve_09.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "maya_01.jpg",
+      "uso": "identidade de MAYA"
+    },
+    {
+      "arquivo": "maya_09.jpg",
+      "uso": "identidade de MAYA"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "EVE",
+      "referencias": [
+        "eve_flecha.jpg",
+        "eve_01.jpg",
+        "eve_09.jpg"
+      ],
+      "ficha": "EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado."
+    },
+    {
+      "nome": "MAYA",
+      "referencias": [
+        "maya_01.jpg",
+        "maya_09.jpg"
+      ],
+      "ficha": "MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {
+    "flecha_da_eve": "flecha CRAVADA na parte superior esquerda do abdômen (abaixo das costelas, lado do coração = à direita de quem olha), haste escura fina, penas verdes, inclinada para cima, um pouco de sangue. Igual a eve_flecha.jpg.",
+    "hidra": "EXATAMENTE 5 cabeças como em hidra.jpg, olhos amarelos, luz dourada pulsando no peito."
+  },
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "plano médio, ação",
+      "cena": "Uma cabeça da hidra escapa da contenção e avança direto contra Maya, com as presas abertas. Maya paralisada.",
+      "personagens_visiveis": [
+        "MAYA"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de grito com contorno pontiagudo",
+          "falante": "WILL (fora do quadro: cauda sai pela borda)",
+          "texto_exato": "MAYA!"
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano médio, impacto",
+      "cena": "Eve, ainda com a flecha cravada na parte superior esquerda do abdômen, se joga na frente de Maya e bloqueia a mordida da hidra com o escudo redondo. Impacto brutal, faíscas e água voando.",
+      "personagens_visiveis": [
+        "EVE",
+        "MAYA"
+      ],
+      "textos": [
+        {
+          "tipo": "letras douradas pintadas na arte, sem balão",
+          "texto_exato": "KRAAAM!"
+        }
+      ]
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "close dramático",
+      "cena": "Rosto de Eve no esforço: as veias verdes acendem pelo pescoço e rosto e, por um instante, os olhos dela brilham em verde. Ela empurra a cabeça da hidra para trás com uma força que não deveria ter.",
+      "personagens_visiveis": [
+        "EVE"
+      ],
+      "textos": "nenhum texto"
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "plano médio",
+      "cena": "Maya, caída na água atrás de Eve, olhando para ela espantada. Eve de costas para Maya, ainda com o escudo erguido.",
+      "personagens_visiveis": [
+        "EVE",
+        "MAYA"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "MAYA",
+          "texto_exato": "EVE... SEUS OLHOS."
+        },
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "EVE",
+          "texto_exato": "EU SEI. EU SENTI. ACABA LOGO COM ISSO."
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 7 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}

@@ -1,3 +1,5 @@
+PÁGINA NOVA E INDEPENDENTE: ignore as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este prompt e as imagens anexadas nesta mensagem.
+
 Gere a página abaixo seguindo as instruções do projeto.
 
 IMAGENS ANEXADAS NESTA MENSAGEM (8) — são a identidade visual oficial:

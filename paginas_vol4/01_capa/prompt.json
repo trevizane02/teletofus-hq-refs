@@ -1,0 +1,135 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 1,
+  "descricao": "página inteira, sem quadros (pântano enevoado)",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": "ilustração única ocupando a página inteira, sem divisões",
+  "total_de_quadros": 1,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_floresta.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "hidra.jpg",
+      "uso": "a HIDRA: copie a aparência (5 cabeças) e acrescente a luz dourada no peito"
+    },
+    {
+      "arquivo": "logo_teletofus.jpg",
+      "uso": "tipografia do título TELETOFUS"
+    },
+    {
+      "arquivo": "eve_flecha.jpg",
+      "uso": "Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen"
+    },
+    {
+      "arquivo": "will_13.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "iske_17.jpg",
+      "uso": "identidade de ISKE"
+    },
+    {
+      "arquivo": "eve_13.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "maya_13.jpg",
+      "uso": "identidade de MAYA"
+    },
+    {
+      "arquivo": "derken_13.jpg",
+      "uso": "identidade de DERKEN"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "WILL",
+      "referencias": [
+        "will_13.jpg"
+      ],
+      "ficha": "WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera."
+    },
+    {
+      "nome": "ISKE",
+      "referencias": [
+        "iske_17.jpg"
+      ],
+      "ficha": "ISKE: cabelo preto curto, rosto ESCANHOADO (só sombra de barba, NUNCA barba cheia), gibão de COURO PRETO com rebites (NUNCA placas de metal, NUNCA pele de animal ou pelo nos ombros), machado de UMA lâmina em meia-lua."
+    },
+    {
+      "nome": "EVE",
+      "referencias": [
+        "eve_flecha.jpg",
+        "eve_13.jpg"
+      ],
+      "ficha": "EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado."
+    },
+    {
+      "nome": "MAYA",
+      "referencias": [
+        "maya_13.jpg"
+      ],
+      "ficha": "MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro."
+    },
+    {
+      "nome": "DERKEN",
+      "referencias": [
+        "derken_13.jpg"
+      ],
+      "ficha": "DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {
+    "flecha_da_eve": "flecha CRAVADA na parte superior esquerda do abdômen (abaixo das costelas, lado do coração = à direita de quem olha), haste escura fina, penas verdes, inclinada para cima, um pouco de sangue. Igual a eve_flecha.jpg.",
+    "hidra": "EXATAMENTE 5 cabeças como em hidra.jpg, olhos amarelos, luz dourada pulsando no peito."
+  },
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "página inteira",
+      "cena": "Os cinco heróis (Will, Iske, Eve, Maya e Derken) atravessam um pântano enevoado, vistos de frente em plano conjunto, com água escura até os joelhos. Iske carrega Eve nos braços: ela está pálida, de olhos semicerrados, com uma flecha cravada na parte superior esquerda do abdômen, logo abaixo da placa do peito; no antebraço dela as veias douradas da marca estão rachadas, com veias verde-escuras subindo pelo pescoço. Maya caminha ao lado, preocupada, abraçando o livro. Will (sem óculos, chapéu de mago) e Derken (arco na mão) atentos, olhando ao redor. Ao fundo, dentro da névoa, a silhueta gigantesca da hidra com CINCO cabeças erguidas, igual à referência hidra.jpg, e um brilho dourado no centro do peito. No céu, fragmentos de terra flutuando, com raios esverdeados. Iluminação: névoa verde-musgo, brilho dourado distante, luz fria. - Título no topo, grande, em letras douradas envelhecidas: (texto listado abaixo) - Logo abaixo do título: (texto listado abaixo) - Abaixo: (texto listado abaixo) - Abaixo, em destaque: (texto listado abaixo) - No rodapé, ao lado do símbolo do Teletofus (caveira encapuzada dourada com rosa dos ventos): (texto listado abaixo)",
+      "personagens_visiveis": [
+        "WILL",
+        "ISKE",
+        "EVE",
+        "MAYA",
+        "DERKEN"
+      ],
+      "textos": [
+        {
+          "tipo": "texto de capa sem balão",
+          "texto_exato": "TELETOFUS"
+        },
+        {
+          "tipo": "texto de capa sem balão",
+          "texto_exato": "— A CULPA DE ALTHERYN —"
+        },
+        {
+          "tipo": "texto de capa sem balão",
+          "texto_exato": "VOLUME 4"
+        },
+        {
+          "tipo": "texto de capa sem balão",
+          "texto_exato": "A ALMA DA HIDRA"
+        },
+        {
+          "tipo": "texto de capa sem balão",
+          "texto_exato": "MMORPG DE DIFICULDADE EXTREMA"
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 9 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}

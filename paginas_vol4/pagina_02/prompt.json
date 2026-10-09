@@ -1,0 +1,127 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 2,
+  "descricao": "4 quadros horizontais empilhados (taverna, noite)",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadro 1 em largura total",
+    "linha 2: quadro 2 em largura total",
+    "linha 3: quadro 3 em largura total",
+    "linha 4: quadro 4 em largura total"
+  ],
+  "total_de_quadros": 4,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_taverna.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "aventureiro_01.jpg",
+      "uso": "identidade de AVENTUREIRO"
+    },
+    {
+      "arquivo": "aventureiro_07.jpg",
+      "uso": "identidade de AVENTUREIRO"
+    },
+    {
+      "arquivo": "vorteus_01.jpg",
+      "uso": "identidade de VORTEUS"
+    },
+    {
+      "arquivo": "vorteus_05.jpg",
+      "uso": "identidade de VORTEUS"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "AVENTUREIRO",
+      "referencias": [
+        "aventureiro_01.jpg",
+        "aventureiro_07.jpg"
+      ],
+      "ficha": "AVENTUREIRO: cabelo castanho cacheado curto, sem barba, cachecol e capa pretos, roupa de couro escura."
+    },
+    {
+      "nome": "VORTEUS",
+      "referencias": [
+        "vorteus_01.jpg",
+        "vorteus_05.jpg"
+      ],
+      "ficha": "VORTEUS: cabelo preto longo e cacheado, bigode e cavanhaque, brincos de argola dourados, casaco roxo bordado em dourado."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {},
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "plano geral",
+      "cena": "Interior da Taverna do Corvo Torto, cheia, à noite, luz quente de velas. Vorteus sentado sozinho na mesa de sempre, taça de vinho na mão, alaúde encostado na cadeira, sorriso tranquilo.",
+      "personagens_visiveis": [
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "caixa preta com borda dourada, texto bege-dourado serifado, sem cauda",
+          "texto_exato": "ELE VOLTOU NA NOITE SEGUINTE. MAIS CEDO DO QUE NUNCA."
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano médio",
+      "cena": "O Aventureiro chega apressado e se senta de frente para Vorteus, batendo uma moeda dourada com uma árvore gravada sobre a mesa. Expressão ansiosa.",
+      "personagens_visiveis": [
+        "AVENTUREIRO",
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "AVENTUREIRO",
+          "texto_exato": "ELA MORREU OU NÃO?"
+        }
+      ]
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "close",
+      "cena": "Vorteus sorri devagar, sem pressa, girando a taça.",
+      "personagens_visiveis": [
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "VORTEUS",
+          "texto_exato": "BOA NOITE PRA VOCÊ TAMBÉM, GAROTO."
+        }
+      ]
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "plano de detalhe",
+      "cena": "Close da moeda dourada com a árvore gravada sobre a mesa de madeira, iluminada por uma vela. A mão de Vorteus, com anéis, aparece apontando para ela.",
+      "personagens_visiveis": [
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "VORTEUS",
+          "texto_exato": "AINDA TROUXE A MOEDA. BOM. MUITO BOM."
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 5 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}

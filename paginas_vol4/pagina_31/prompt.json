@@ -1,0 +1,153 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 31,
+  "descricao": "5 quadros (Taverna do Corvo Torto, noite, luz de velas)",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadro 1 em largura total",
+    "linha 2: quadro 2 em largura total",
+    "linha 3: quadro 3 em largura total",
+    "linha 4: quadros 4 e 5 lado a lado, larguras iguais"
+  ],
+  "total_de_quadros": 5,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_taverna.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "aventureiro_01.jpg",
+      "uso": "identidade de AVENTUREIRO"
+    },
+    {
+      "arquivo": "aventureiro_05.jpg",
+      "uso": "identidade de AVENTUREIRO"
+    },
+    {
+      "arquivo": "vorteus_01.jpg",
+      "uso": "identidade de VORTEUS"
+    },
+    {
+      "arquivo": "vorteus_05.jpg",
+      "uso": "identidade de VORTEUS"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "AVENTUREIRO",
+      "referencias": [
+        "aventureiro_01.jpg",
+        "aventureiro_05.jpg"
+      ],
+      "ficha": "AVENTUREIRO: cabelo castanho cacheado curto, sem barba, cachecol e capa pretos, roupa de couro escura."
+    },
+    {
+      "nome": "VORTEUS",
+      "referencias": [
+        "vorteus_01.jpg",
+        "vorteus_05.jpg"
+      ],
+      "ficha": "VORTEUS: cabelo preto longo e cacheado, bigode e cavanhaque, brincos de argola dourados, casaco roxo bordado em dourado."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {},
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "plano médio",
+      "cena": "O Aventureiro encostado na cadeira, aliviado, rindo sozinho, a moeda da árvore na mesa.",
+      "personagens_visiveis": [
+        "AVENTUREIRO"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "AVENTUREIRO",
+          "texto_exato": "EU SABIA QUE ELA NÃO IA MORRER."
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano médio",
+      "cena": "Vorteus girando o vinho na taça, com um sorriso de canto.",
+      "personagens_visiveis": [
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "VORTEUS",
+          "texto_exato": "VOCÊ SABIA PORQUE EU CONTEI. LÁ NO PÂNTANO, NINGUÉM SABIA DE NADA."
+        }
+      ]
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "primeiro plano",
+      "cena": "O Aventureiro inclinado para frente, a moeda entre os dedos, intrigado.",
+      "personagens_visiveis": [
+        "AVENTUREIRO"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "AVENTUREIRO",
+          "texto_exato": "E O GOBLIN? POR QUE ELE AJUDOU DE GRAÇA?"
+        },
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "AVENTUREIRO",
+          "texto_exato": "ELE DISSE QUE ELES TINHAM AJUDADO ELE. ELES NUNCA TINHAM VISTO AQUELE GOBLIN."
+        }
+      ]
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "close dramático",
+      "cena": "Vorteus, pela primeira vez sem sorrir, olhar sério e profundo, luz da vela no rosto.",
+      "personagens_visiveis": [
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "VORTEUS",
+          "texto_exato": "GAROTO, PRESTA ATENÇÃO: GOBLIN NENHUM DÁ NADA DE GRAÇA."
+        },
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "VORTEUS",
+          "texto_exato": "QUANDO UM DELES DIZ QUE TE DEVE UM FAVOR..."
+        }
+      ]
+    },
+    {
+      "quadro": 5,
+      "enquadramento": "plano médio",
+      "cena": "Vorteus bebendo um gole de vinho, olhos fixos no Aventureiro por cima da taça.",
+      "personagens_visiveis": [
+        "AVENTUREIRO",
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "VORTEUS",
+          "texto_exato": "...É PORQUE VOCÊ JÁ PAGOU. SÓ NÃO SABE AINDA COM O QUÊ."
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 5 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}

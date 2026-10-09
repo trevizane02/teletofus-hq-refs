@@ -1,7 +1,10 @@
 COMO USAR (uma página por vez)
-1. Abra a pasta da página (ex.: pagina_02).
-2. Copie todo o texto do prompt.txt e cole no chat do projeto.
-3. Arraste TODAS as imagens .jpg da mesma pasta para a mesma mensagem.
-4. Envie. Se algo sair errado, peça o ajuste na mesma conversa.
+1. Abra uma CONVERSA NOVA dentro do projeto para CADA página. Nunca gere duas páginas na mesma conversa:
+   o ChatGPT mistura a página anterior com a nova.
+2. Abra a pasta da página (ex.: pagina_02).
+3. Anexe o prompt.json (ou cole o texto dele) e arraste TODAS as imagens .jpg da pasta na mesma mensagem.
+   No máximo 9 imagens por pasta, para caber no limite de 10 arquivos do ChatGPT.
+   O prompt.txt tem o mesmo conteúdo em texto corrido; use um OU outro.
+4. Envie. Ajustes da MESMA página podem ser pedidos na mesma conversa.
 
 Sem as imagens anexadas o ChatGPT desenha os personagens de memória (links não funcionam como referência visual).

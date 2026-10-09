@@ -1,0 +1,156 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 25,
+  "descricao": "4 quadros (combate coordenado, ritmo rápido)",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadro 1 em largura total",
+    "linha 2: quadro 2 em largura total",
+    "linha 3: quadro 3 em largura total",
+    "linha 4: quadro 4 em largura total"
+  ],
+  "total_de_quadros": 4,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_santuario.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "hidra.jpg",
+      "uso": "a HIDRA: copie a aparência (5 cabeças) e acrescente a luz dourada no peito"
+    },
+    {
+      "arquivo": "will_13.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "will_09.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "iske_17.jpg",
+      "uso": "identidade de ISKE"
+    },
+    {
+      "arquivo": "iske_09.jpg",
+      "uso": "identidade de ISKE"
+    },
+    {
+      "arquivo": "maya_13.jpg",
+      "uso": "identidade de MAYA"
+    },
+    {
+      "arquivo": "maya_01.jpg",
+      "uso": "identidade de MAYA"
+    },
+    {
+      "arquivo": "derken_13.jpg",
+      "uso": "identidade de DERKEN"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "WILL",
+      "referencias": [
+        "will_13.jpg",
+        "will_09.jpg"
+      ],
+      "ficha": "WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera."
+    },
+    {
+      "nome": "ISKE",
+      "referencias": [
+        "iske_17.jpg",
+        "iske_09.jpg"
+      ],
+      "ficha": "ISKE: cabelo preto curto, rosto ESCANHOADO (só sombra de barba, NUNCA barba cheia), gibão de COURO PRETO com rebites (NUNCA placas de metal, NUNCA pele de animal ou pelo nos ombros), machado de UMA lâmina em meia-lua."
+    },
+    {
+      "nome": "MAYA",
+      "referencias": [
+        "maya_13.jpg",
+        "maya_01.jpg"
+      ],
+      "ficha": "MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro."
+    },
+    {
+      "nome": "DERKEN",
+      "referencias": [
+        "derken_13.jpg"
+      ],
+      "ficha": "DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {
+    "hidra": "EXATAMENTE 5 cabeças como em hidra.jpg, olhos amarelos, luz dourada pulsando no peito."
+  },
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "plano conjunto, ação",
+      "cena": "Iske corta uma cabeça da hidra; no mesmo instante, Will lança um selo mágico dourado em forma de círculo rúnico sobre o toco, que se fecha sem regenerar.",
+      "personagens_visiveis": [
+        "WILL",
+        "ISKE"
+      ],
+      "textos": [
+        {
+          "tipo": "letras douradas pintadas na arte, sem balão",
+          "texto_exato": "SHHRAK!"
+        },
+        {
+          "tipo": "letras douradas pintadas na arte, sem balão",
+          "texto_exato": "VWOOM!"
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano médio",
+      "cena": "Outra cabeça da hidra cortada e selada com luz dourada; a hidra urra de dor, as cabeças restantes se contorcendo.",
+      "personagens_visiveis": "nenhum personagem principal",
+      "textos": "nenhum texto"
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "plano geral, ação",
+      "cena": "Derken correndo sobre pedras e colunas caídas na água, atraindo três cabeças da hidra para longe do grupo, disparando o arco enquanto corre.",
+      "personagens_visiveis": [
+        "DERKEN"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de grito com contorno pontiagudo",
+          "falante": "DERKEN",
+          "texto_exato": "AQUI, SUA LAGARTA CRESCIDA!"
+        }
+      ]
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "primeiro plano",
+      "cena": "Maya com os olhos brilhando em verde, apontando com precisão para a esquerda.",
+      "personagens_visiveis": [
+        "MAYA"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "MAYA",
+          "texto_exato": "ESQUERDA! A PRÓXIMA VAI ATACAR PELA ESQUERDA!"
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 9 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}

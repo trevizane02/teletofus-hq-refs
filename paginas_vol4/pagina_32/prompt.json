@@ -1,0 +1,141 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 32,
+  "descricao": "5 quadros (Taverna do Corvo Torto, fecho do volume)",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadros 1 e 2 lado a lado, larguras iguais",
+    "linha 2: quadro 3 em largura total",
+    "linha 3: quadro 4 em largura total",
+    "linha 4: quadro 5 em largura total"
+  ],
+  "total_de_quadros": 5,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_taverna.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "aventureiro_01.jpg",
+      "uso": "identidade de AVENTUREIRO"
+    },
+    {
+      "arquivo": "aventureiro_05.jpg",
+      "uso": "identidade de AVENTUREIRO"
+    },
+    {
+      "arquivo": "vorteus_01.jpg",
+      "uso": "identidade de VORTEUS"
+    },
+    {
+      "arquivo": "vorteus_07.jpg",
+      "uso": "identidade de VORTEUS"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "AVENTUREIRO",
+      "referencias": [
+        "aventureiro_01.jpg",
+        "aventureiro_05.jpg"
+      ],
+      "ficha": "AVENTUREIRO: cabelo castanho cacheado curto, sem barba, cachecol e capa pretos, roupa de couro escura."
+    },
+    {
+      "nome": "VORTEUS",
+      "referencias": [
+        "vorteus_01.jpg",
+        "vorteus_07.jpg"
+      ],
+      "ficha": "VORTEUS: cabelo preto longo e cacheado, bigode e cavanhaque, brincos de argola dourados, casaco roxo bordado em dourado."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {},
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "primeiro plano",
+      "cena": "O Aventureiro inquieto, quase se levantando da cadeira.",
+      "personagens_visiveis": [
+        "AVENTUREIRO"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "AVENTUREIRO",
+          "texto_exato": "ENTÃO ME CONTA. QUEM É ELE?"
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano médio",
+      "cena": "Vorteus sorrindo de novo, recuperando o jeito de sempre, enchendo a taça do Aventureiro com uma jarra.",
+      "personagens_visiveis": [
+        "AVENTUREIRO",
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "VORTEUS",
+          "texto_exato": "AH, ESSA É UMA HISTÓRIA BEM MAIS ANTIGA QUE A DOS CINCO. TEM DOIS IRMÃOS NELA."
+        }
+      ]
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "close",
+      "cena": "O Aventureiro intrigado, sobrancelhas franzidas.",
+      "personagens_visiveis": [
+        "AVENTUREIRO"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "AVENTUREIRO",
+          "texto_exato": "DOIS IRMÃOS?"
+        }
+      ]
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "plano geral da taverna",
+      "cena": "A taverna cheia vista de longe. Num canto escuro, uma figura encapuzada se levanta e sai pela porta; pela fresta do capuz, um leve brilho arroxeado. Vorteus e o Aventureiro pequenos na mesa ao fundo.",
+      "personagens_visiveis": [
+        "AVENTUREIRO",
+        "VORTEUS"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "VORTEUS",
+          "texto_exato": "OUTRA NOITE, GAROTO. OUTRA NOITE."
+        }
+      ]
+    },
+    {
+      "quadro": 5,
+      "enquadramento": "plano de detalhe",
+      "cena": "A moeda dourada com a árvore gravada sobre a mesa, ao lado de uma vela e da taça cheia de vinho.",
+      "personagens_visiveis": "nenhum personagem principal",
+      "textos": [
+        {
+          "tipo": "caixa preta com borda dourada, texto bege-dourado serifado, sem cauda",
+          "texto_exato": "TODO FAVOR TEM UM PREÇO. ALGUNS SÓ SÃO COBRADOS MUITO TEMPO DEPOIS."
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 5 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}

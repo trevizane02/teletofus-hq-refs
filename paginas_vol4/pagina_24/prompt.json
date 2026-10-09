@@ -1,0 +1,171 @@
+{
+  "AVISO": "PÁGINA NOVA E INDEPENDENTE. Ignore completamente as cenas, personagens, textos e imagens de páginas anteriores desta conversa. Use SOMENTE este JSON e as imagens anexadas nesta mensagem.",
+  "pagina": 24,
+  "descricao": "4 quadros (combate)",
+  "formato": "página vertical 2:3, fundo preto",
+  "grade": [
+    "linha 1: quadro 1 em largura total",
+    "linha 2: quadro 2 em largura total",
+    "linha 3: quadro 3 em largura total",
+    "linha 4: quadro 4 em largura total"
+  ],
+  "total_de_quadros": 4,
+  "estilo": "MESMO acabamento da página de estilo anexada: realismo pictórico de fantasia sombria, pintura digital realista, pinceladas finas e granuladas, sombras quase pretas, luz pontual, cores dessaturadas (marrom, preto, dourado envelhecido). PROIBIDO anime, mangá, cartum, contornos grossos, e também foto ou still de filme. Cada quadro com borda dourada fina e filigrana nos 4 cantos.",
+  "imagens_anexadas": [
+    {
+      "arquivo": "estilo_santuario.jpg",
+      "uso": "página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões"
+    },
+    {
+      "arquivo": "hidra.jpg",
+      "uso": "a HIDRA: copie a aparência (5 cabeças) e acrescente a luz dourada no peito"
+    },
+    {
+      "arquivo": "eve_flecha.jpg",
+      "uso": "Eve ferida: copie a POSIÇÃO e o visual da flecha no abdômen"
+    },
+    {
+      "arquivo": "will_13.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "will_09.jpg",
+      "uso": "identidade de WILL"
+    },
+    {
+      "arquivo": "eve_13.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "eve_12.jpg",
+      "uso": "identidade de EVE"
+    },
+    {
+      "arquivo": "maya_13.jpg",
+      "uso": "identidade de MAYA"
+    },
+    {
+      "arquivo": "maya_09.jpg",
+      "uso": "identidade de MAYA"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "WILL",
+      "referencias": [
+        "will_13.jpg",
+        "will_09.jpg"
+      ],
+      "ficha": "WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera."
+    },
+    {
+      "nome": "EVE",
+      "referencias": [
+        "eve_flecha.jpg",
+        "eve_13.jpg",
+        "eve_12.jpg"
+      ],
+      "ficha": "EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado."
+    },
+    {
+      "nome": "MAYA",
+      "referencias": [
+        "maya_13.jpg",
+        "maya_09.jpg"
+      ],
+      "ficha": "MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro."
+    }
+  ],
+  "regras_de_identidade": "Copie das imagens o rosto, idade, cor e textura do cabelo, barba (ou falta dela), roupa, cores e armas. Não invente barba, pele de animal, armadura de metal, vestido, cajado, esfera ou cor de cabelo. Ninguém aparece duas vezes no mesmo quadro. Só a Maya usa óculos.",
+  "continuidade": {
+    "flecha_da_eve": "flecha CRAVADA na parte superior esquerda do abdômen (abaixo das costelas, lado do coração = à direita de quem olha), haste escura fina, penas verdes, inclinada para cima, um pouco de sangue. Igual a eve_flecha.jpg.",
+    "hidra": "EXATAMENTE 5 cabeças como em hidra.jpg, olhos amarelos, luz dourada pulsando no peito."
+  },
+  "quadros": [
+    {
+      "quadro": 1,
+      "enquadramento": "plano médio",
+      "cena": "Will com o livro de feitiços aberto, olhos correndo pelas páginas, enquanto o caos acontece atrás dele: cabeças da hidra atacando, água espirrando.",
+      "personagens_visiveis": [
+        "WILL"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "WILL",
+          "texto_exato": "REGENERAÇÃO... É A MESMA LÓGICA DO CERVO DE RAÍZES NO SANTUÁRIO."
+        },
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "WILL",
+          "texto_exato": "SE EU SELAR O CORTE NA HORA, ELA NÃO REFAZ A CABEÇA!"
+        }
+      ]
+    },
+    {
+      "quadro": 2,
+      "enquadramento": "plano médio",
+      "cena": "Maya apontando para o peito da hidra, onde a luz dourada pulsa por baixo das escamas, olhos brilhando em verde.",
+      "personagens_visiveis": [
+        "MAYA"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "MAYA",
+          "texto_exato": "E NÃO ADIANTA SÓ CORTAR!"
+        },
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "MAYA",
+          "texto_exato": "A ALMA DELA ESTÁ ALI, NO CENTRO, ONDE BRILHA. É ISSO QUE MANTÉM TUDO VIVO!"
+        }
+      ]
+    },
+    {
+      "quadro": 3,
+      "enquadramento": "primeiro plano",
+      "cena": "Will fechando o livro, determinado, mão brilhando em dourado.",
+      "personagens_visiveis": [
+        "WILL"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "WILL",
+          "texto_exato": "ISKE CORTA, EU SELO. DERKEN, MANTÉM AS CABEÇAS OCUPADAS. MAYA, GUIA A GENTE!"
+        }
+      ]
+    },
+    {
+      "quadro": 4,
+      "enquadramento": "plano médio",
+      "cena": "Eve encostada numa coluna quebrada, escudo no chão ao lado, ofegante, com a flecha cravada na parte superior esquerda do abdômen, observando. Will de costas em primeiro plano, virando o rosto para ela.",
+      "personagens_visiveis": [
+        "WILL",
+        "EVE"
+      ],
+      "textos": [
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "EVE",
+          "texto_exato": "E EU?"
+        },
+        {
+          "tipo": "balão de fala branco, texto preto serifado, cauda para a boca do falante",
+          "falante": "WILL",
+          "texto_exato": "VOCÊ FICA VIVA. É A SUA ÚNICA TAREFA."
+        }
+      ]
+    }
+  ],
+  "regras_de_texto": "Escreva SOMENTE os campos texto_exato, letra por letra, em maiúsculas com acentos. Nada de nomes, números de quadro ou títulos extras. Balões nunca cobrem rostos.",
+  "antes_de_gerar": "Confirme em uma linha que viu as 9 imagens anexadas. Se faltar alguma, não gere.",
+  "checagem_final": [
+    "número de quadros e grade corretos",
+    "ninguém duplicado",
+    "rosto, cabelo, roupa e arma iguais às referências",
+    "acabamento igual à página de estilo (nem anime, nem foto)",
+    "cada texto exato no quadro certo"
+  ]
+}
