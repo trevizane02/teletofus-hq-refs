@@ -1,0 +1,110 @@
+{
+  "pagina": 32,
+  "cenario": "5 quadros (Taverna do Corvo Torto, fecho do volume)",
+  "estilo": "estilo_taverna.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": false,
+  "grade": [
+    [
+      1,
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "primeiro plano",
+      "cena": "O Aventureiro inquieto, quase se levantando da cadeira.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "aventureiro",
+          "fora_do_quadro": false,
+          "texto": "ENTÃO ME CONTA. QUEM É ELE?"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Vorteus sorrindo de novo, recuperando o jeito de sempre, enchendo a taça do Aventureiro com uma jarra.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro",
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "AH, ESSA É UMA HISTÓRIA BEM MAIS ANTIGA QUE A DOS CINCO. TEM DOIS IRMÃOS NELA."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "close",
+      "cena": "O Aventureiro intrigado, sobrancelhas franzidas.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "aventureiro",
+          "fora_do_quadro": false,
+          "texto": "DOIS IRMÃOS?"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano geral da taverna",
+      "cena": "A taverna cheia vista de longe. Num canto escuro, uma figura encapuzada se levanta e sai pela porta; pela fresta do capuz, um leve brilho arroxeado. Vorteus e o Aventureiro pequenos na mesa ao fundo.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro",
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "OUTRA NOITE, GAROTO. OUTRA NOITE."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "enquadramento": "plano de detalhe",
+      "cena": "A moeda dourada com a árvore gravada sobre a mesa, ao lado de uma vela e da taça cheia de vinho.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "TODO FAVOR TEM UM PREÇO. ALGUNS SÓ SÃO COBRADOS MUITO TEMPO DEPOIS."
+        }
+      ]
+    }
+  ]
+}

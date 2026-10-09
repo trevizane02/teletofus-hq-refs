@@ -1,0 +1,122 @@
+{
+  "pagina": 10,
+  "cenario": "estrada, manhã cinzenta",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Gibby abre os braços, eufórico, ao lado do carrinho.",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "OLÁ, HUMANOS MARAVILHOSOS! GIBBY AMAR HUMANOS! GIBBY AMAR MUITO HUMANOS! KI KI KI KI!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano conjunto",
+      "cena": "Os cinco em posição de defesa: Derken com o arco apontado, Will (sem óculos) com a mão erguida brilhando em azul, Iske virando o corpo para proteger Eve nos braços.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "derken",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "SAIA DAQUI, CRIATURA."
+        },
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "GOBLIN SOZINHO NA ESTRADA NUNCA É GOBLIN SOZINHO."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "Gibby dá uma voltinha saltitante em torno do carrinho, ignorando as armas, com cara de felicidade exagerada.",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "GIBBY ESTAR TÃO FELIZ HOJE! TÃO FELIZ! FELIZ GIBBY ESTAR!"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "primeiro plano",
+      "cena": "Eve, nos braços de Iske, abre um olho com desconfiança e deboche.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "FELIZ COM O QUÊ, POSSO SABER?"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "enquadramento": "close dramático",
+      "cena": "Gibby para de repente e encara Eve; o sorriso fica ainda maior e um pouco sinistro, olhos amarelos brilhando.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "AH... HUMANA NÃO PRECISAR SABER. KI KI KI."
+        }
+      ]
+    }
+  ]
+}

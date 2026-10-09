@@ -1,0 +1,80 @@
+{
+  "pagina": 28,
+  "cenario": "4 quadros (câmara da hidra, depois da batalha)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": false,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano geral, quadro grande",
+      "cena": "O corpo da hidra desabando na água, os pescoços selados caindo. Do peito aberto sobe uma esfera de luz dourada e esverdeada, com formas de serpentes girando dentro dela: a alma da hidra. A luz ilumina toda a câmara.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "MANA ASSIM NÃO DESAPARECE. MAS ALMA TAMBÉM NÃO. ELA PROCURA ALGUÉM."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano conjunto",
+      "cena": "A esfera de luz flutua devagar, passando diante de Iske, depois de Will, depois de Derken, que a observam imóveis.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "A esfera para diante de Maya. Ela estende as mãos, hesitante; a luz entra pelas palmas dela, e a marca no antebraço de Maya (veias douradas como raízes) se acende inteira em dourado intenso.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 4,
+      "enquadramento": "close",
+      "cena": "Maya de olhos fechados, com uma serenidade nova no rosto, iluminada por baixo pela luz dourada.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "EU ENTENDO AGORA. NÃO É PARA GUARDAR. É PARA DEVOLVER."
+        }
+      ]
+    }
+  ]
+}

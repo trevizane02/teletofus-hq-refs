@@ -1,0 +1,97 @@
+{
+  "pagina": 22,
+  "cenario": "4 quadros (câmara da hidra)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano conjunto",
+      "cena": "As cinco cabeças da hidra se erguendo uma a uma da água, abrindo olhos amarelos brilhantes. Os cinco heróis recuam um passo.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "A cabeça central da hidra se aproxima lentamente de Eve, que está apoiada em Iske, com a flecha cravada na parte superior esquerda do abdômen, e para a poucos centímetros dela, farejando. As outras cabeças sibilam ao redor.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "close dramático",
+      "cena": "Close no olho amarelo enorme da hidra, refletindo a imagem pequena de Eve com a flecha cravada no abdômen e as veias verdes no pescoço.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": true,
+          "texto": "ELA SENTE A CORRUPÇÃO."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano geral, ação",
+      "cena": "A hidra recua e ruge com as cinco bocas abertas ao mesmo tempo, água espirrando para todo lado.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "sfx",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "GRRRAAAAAHHH!"
+        },
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "É... ACHO QUE ELA NÃO GOSTOU DE MIM."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "pagina": 30,
+  "cenario": "5 quadros (depois da cura)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": false,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Eve desaba nos braços de Maya, SEM a flecha, respirando normalmente, as veias verdes desaparecidas; na parte superior esquerda do abdômen, só um rasgo na armadura e uma ferida já fechada. No antebraço dela, a marca voltou a ser dourada, mas com uma pequena cicatriz verde permanente no centro.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 2,
+      "enquadramento": "close",
+      "cena": "Eve abre os olhos e sorri, cansada mas inteira, o rosto limpo de novo.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "EU FALEI... QUE EU ERA BONITA DEMAIS PRA MORRER ASSIM."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano de detalhe",
+      "cena": "A mão de Will tirando da água a flecha expelida; a ponta é um pequeno fragmento de mana: cristal verde-esmeralda, translúcido e facetado, com um brilho fraco por dentro.",
+      "personagens_esquerda_para_direita": [
+        "will"
+      ],
+      "objetos": [
+        "fragmento_mana.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano de detalhe",
+      "cena": "A mão de Iske tirando do saco de couro a outra flecha do caçador, a que errou o alvo e ficou cravada nas raízes do santuário: a ponta é o mesmo cristal verde-esmeralda facetado. As duas pontas de cristal lado a lado, idênticas.",
+      "personagens_esquerda_para_direita": [
+        "iske"
+      ],
+      "objetos": [
+        "fragmento_mana.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": true,
+          "texto": "ISSO NÃO É PONTA DE FLECHA COMUM. É UM FRAGMENTO DE MANA."
+        },
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": true,
+          "texto": "ALGUÉM PRENDEU ALGUMA COISA AQUI DENTRO."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "enquadramento": "primeiro plano",
+      "cena": "Derken sério, olhando para os dois cristais, rosto iluminado pelo brilho verde.",
+      "personagens_esquerda_para_direita": [
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "ENTÃO QUEM ATIROU NÃO QUERIA MATAR A EVE. QUERIA COLOCAR ISSO DENTRO DELA."
+        },
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "NENHUM DELES LEMBROU DO PEQUENO BRILHO VERDE NO CARRINHO DO GOBLIN. AINDA."
+        }
+      ]
+    }
+  ]
+}

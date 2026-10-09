@@ -1,0 +1,64 @@
+{
+  "pagina": 7,
+  "cenario": "fuga do santuário",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano conjunto, ação",
+      "cena": "Os cinco correndo por um corredor de raízes, da esquerda para a direita. Iske carrega Eve nos braços, com a flecha cravada na parte superior esquerda do abdômen, faixas improvisadas ao redor da haste. Will (sem óculos) e Maya logo atrás; Derken guiando à frente. Atrás deles, as raízes se fecham como uma boca.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano geral, exterior",
+      "cena": "Os cinco saindo pela abertura na base de uma árvore colossal e retorcida, de volta à Floresta Sombria ao entardecer, luz azul fria. Atrás deles, as raízes fecham completamente a passagem.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano de detalhe, escuro",
+      "cena": "A passagem de raízes quase fechada. No pequeno vão que resta, na escuridão, dois olhos verdes brilhando, observando. Nenhum personagem neste quadro.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "O SANTUÁRIO OS DEIXOU SAIR. TALVEZ PORQUE JÁ TIVESSE CONSEGUIDO O QUE QUERIA."
+        }
+      ]
+    }
+  ]
+}

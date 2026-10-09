@@ -1,0 +1,101 @@
+{
+  "pagina": 4,
+  "cenario": "4 quadros (interior do santuário, escuro, raízes e brilho verde)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano conjunto, quadro grande",
+      "cena": "Eve caída de costas no chão de pedra coberto de raízes, com uma flecha cravada na parte superior esquerda do abdômen dela, logo abaixo da placa do peito. Maya ajoelhada, segurando a cabeça de Eve no colo, desesperada. O escudo de Eve caído ao lado.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "EVE! FICA COMIGO, POR FAVOR!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Derken com o arco tensionado e uma flecha encaixada, girando o corpo, procurando o atirador entre as raízes escuras.",
+      "personagens_esquerda_para_direita": [
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "CADÊ ELE? CADÊ ELE?"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "Will com a mão erguida; círculos mágicos azuis de detecção se apagando ao redor dele. Expressão frustrada.",
+      "personagens_esquerda_para_direita": [
+        "will"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "NADA. ELE NÃO ESTÁ EM LUGAR NENHUM."
+        },
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "É COMO SE NUNCA TIVESSE EXISTIDO."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "contra-plongée leve",
+      "cena": "Iske se posiciona na frente de Maya e Eve, machado erguido, encarando a escuridão, protetor. Eve continua caída no colo de Maya, atrás dele.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "iske",
+          "fora_do_quadro": false,
+          "texto": "ENTÃO ELE AINDA ESTÁ AQUI."
+        }
+      ]
+    }
+  ]
+}

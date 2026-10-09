@@ -1,0 +1,112 @@
+{
+  "pagina": 8,
+  "cenario": "acampamento na floresta, noite, luz de fogueira",
+  "estilo": "estilo_fogueira.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano conjunto",
+      "cena": "Acampamento improvisado entre árvores escuras. Eve dorme encostada num tronco, coberta pela capa, com a flecha cravada na parte superior esquerda do abdômen, faixas ao redor da haste. No antebraço dela, a marca de veias douradas está rachada e misturada com veias verde-escuras. Os outros ao redor da fogueira.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Will (sem óculos) e Maya sentados lado a lado comparando os antebraços: as marcas deles continuam totalmente douradas. Will olha para Eve ao fundo.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "A MARCA DELA ESTÁ... MISTURADA."
+        },
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "SEJA LÁ O QUE TINHA NAQUELA FLECHA, ESTÁ BRIGANDO COM A MANA DO CERVO DENTRO DELA."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "close",
+      "cena": "Maya de olhos baixos, abraçada ao livro, rosto iluminado pela fogueira.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "E ESTÁ GANHANDO."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "primeiro plano",
+      "cena": "Eve, ainda de olhos fechados, com um leve sorriso cansado.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "EU TÔ OUVINDO VOCÊS, SABIA? PAREM DE FALAR DE MIM COMO SE EU JÁ TIVESSE IDO."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "enquadramento": "plano geral, horizontal largo",
+      "cena": "Iske joga lenha na fogueira em silêncio; faíscas sobem. Derken de pé, vigiando a escuridão.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "NINGUÉM DORMIU NAQUELA NOITE. PELA MANHÃ, DECIDIRAM BUSCAR AJUDA. SÓ NÃO SABIAM ONDE."
+        }
+      ]
+    }
+  ]
+}

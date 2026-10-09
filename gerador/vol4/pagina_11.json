@@ -1,0 +1,94 @@
+{
+  "pagina": 11,
+  "cenario": "estrada, manhã cinzenta",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Gibby se aproxima de Eve farejando o ar com o nariz comprido, perto da flecha cravada na parte superior esquerda do abdômen dela. Iske dá um passo à frente, ameaçador, encarando o goblin de cima.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve",
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "iske",
+          "fora_do_quadro": false,
+          "texto": "MAIS UM PASSO."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Gibby recua com as mãozinhas para cima, mas sem parar de sorrir.",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "CALMA, HUMANO GRANDÃO! GIBBY SÓ SENTIR CHEIRO. CHEIRO DE FLECHA RUIM. FLECHA MUITO, MUITO RUIM."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "Maya se adianta, desesperada, abraçada ao livro.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "VOCÊ SABE O QUE É ISSO? VOCÊ SABE COMO CURAR?"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "close",
+      "cena": "Gibby esfregando as mãos ossudas, olhar ganancioso.",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "GIBBY SABER MUITAS COISAS. GIBBY TER INFORMAÇÃO. MAS GIBBY VENDER INFORMAÇÃO."
+        }
+      ]
+    }
+  ]
+}

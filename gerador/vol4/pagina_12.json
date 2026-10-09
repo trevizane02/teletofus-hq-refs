@@ -1,0 +1,97 @@
+{
+  "pagina": 12,
+  "cenario": "estrada, manhã cinzenta",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Gibby pega uma plaquinha de madeira no carrinho e escreve com um toco de carvão, orgulhoso. Na plaquinha está escrito: \"100.000 PRATA\".",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "PARA HUMANOS MARAVILHOSOS, PREÇO ESPECIAL: CEM MIL MOEDAS DE PRATA!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano conjunto, pausa silenciosa",
+      "cena": "Os cinco imóveis, se entreolhando, incrédulos. Sem texto.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "Eve começa a rir fraca e tosse no meio da risada; Will (sem óculos) ri junto, incrédulo.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "CEM MIL? VOCÊ ESTÁ MALUCO? NEM JUNTANDO TUDO O QUE NÓS CINCO JÁ TIVEMOS NA VIDA."
+        },
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "NEM SE A GENTE QUISESSE, BAIXINHO."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano médio",
+      "cena": "Derken já se virando para ir embora, de costas para o goblin.",
+      "personagens_esquerda_para_direita": [
+        "derken",
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "VAMOS. ESTAMOS PERDENDO TEMPO."
+        }
+      ]
+    }
+  ]
+}

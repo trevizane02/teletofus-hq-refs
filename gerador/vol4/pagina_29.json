@@ -1,0 +1,93 @@
+{
+  "pagina": 29,
+  "cenario": "4 quadros (a purificação, na câmara da hidra, água rasa, luz dourada)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Eve caída de joelhos na água rasa, com a flecha cravada na parte superior esquerda do abdômen, as veias verdes já cobrindo metade do rosto, mal conseguindo manter os olhos abertos. Iske ajoelhado ao lado dela, segurando seus ombros.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "SE NÃO DER CERTO... FALA PRO GRANDÃO QUE A COMIDA DELE ERA HORRÍVEL."
+        },
+        {
+          "tipo": "fala",
+          "falante": "iske",
+          "fora_do_quadro": false,
+          "texto": "MENTIROSA."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio, quadro grande",
+      "cena": "Maya coloca as duas mãos ao redor da flecha cravada na parte superior esquerda do abdômen de Eve. Desta vez a luz não é fraca: é dourada e intensa, com formas de serpentes de luz subindo pelos braços de Maya. Iske, Will e Derken ao redor, iluminados pelo brilho.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano de detalhe",
+      "cena": "As veias verdes recuando pela pele de Eve, sendo puxadas de volta, uma a uma, do rosto e do pescoço em direção à flecha cravada na parte superior esquerda do abdômen, o ponto exato onde ela entrou.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano médio, impacto",
+      "cena": "Eve arqueia as costas e grita; num clarão verde, a flecha é expelida da parte superior esquerda do abdômen e cai na água, com a ponta de cristal verde brilhando.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [
+        "fragmento_mana.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "sfx",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "KRSSH!"
+        }
+      ]
+    }
+  ]
+}

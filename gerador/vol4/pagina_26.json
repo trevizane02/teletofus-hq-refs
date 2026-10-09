@@ -1,0 +1,99 @@
+{
+  "pagina": 26,
+  "cenario": "4 quadros (combate, momento dramático)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio, ação",
+      "cena": "Uma cabeça da hidra escapa da contenção e avança direto contra Maya, com as presas abertas. Maya paralisada.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "grito",
+          "falante": "will",
+          "fora_do_quadro": true,
+          "texto": "MAYA!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio, impacto",
+      "cena": "Eve, ainda com a flecha cravada na parte superior esquerda do abdômen, se joga na frente de Maya e bloqueia a mordida da hidra com o escudo redondo. Impacto brutal, faíscas e água voando.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "sfx",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "KRAAAM!"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "close dramático",
+      "cena": "Rosto de Eve no esforço: as veias verdes acendem pelo pescoço e rosto e, por um instante, os olhos dela brilham em verde. Ela empurra a cabeça da hidra para trás com uma força que não deveria ter.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano médio",
+      "cena": "Maya, caída na água atrás de Eve, olhando para ela espantada. Eve de costas para Maya, ainda com o escudo erguido.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "EVE... SEUS OLHOS."
+        },
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "EU SEI. EU SENTI. ACABA LOGO COM ISSO."
+        }
+      ]
+    }
+  ]
+}

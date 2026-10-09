@@ -1,0 +1,123 @@
+{
+  "pagina": 31,
+  "cenario": "5 quadros (Taverna do Corvo Torto, noite, luz de velas)",
+  "estilo": "estilo_taverna.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": false,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "O Aventureiro encostado na cadeira, aliviado, rindo sozinho, a moeda da árvore na mesa.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "aventureiro",
+          "fora_do_quadro": false,
+          "texto": "EU SABIA QUE ELA NÃO IA MORRER."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Vorteus girando o vinho na taça, com um sorriso de canto.",
+      "personagens_esquerda_para_direita": [
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "VOCÊ SABIA PORQUE EU CONTEI. LÁ NO PÂNTANO, NINGUÉM SABIA DE NADA."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "primeiro plano",
+      "cena": "O Aventureiro inclinado para frente, a moeda entre os dedos, intrigado.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "aventureiro",
+          "fora_do_quadro": false,
+          "texto": "E O GOBLIN? POR QUE ELE AJUDOU DE GRAÇA?"
+        },
+        {
+          "tipo": "fala",
+          "falante": "aventureiro",
+          "fora_do_quadro": false,
+          "texto": "ELE DISSE QUE ELES TINHAM AJUDADO ELE. ELES NUNCA TINHAM VISTO AQUELE GOBLIN."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "close dramático",
+      "cena": "Vorteus, pela primeira vez sem sorrir, olhar sério e profundo, luz da vela no rosto.",
+      "personagens_esquerda_para_direita": [
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "GAROTO, PRESTA ATENÇÃO: GOBLIN NENHUM DÁ NADA DE GRAÇA."
+        },
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "QUANDO UM DELES DIZ QUE TE DEVE UM FAVOR..."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "enquadramento": "plano médio",
+      "cena": "Vorteus bebendo um gole de vinho, olhos fixos no Aventureiro por cima da taça.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro",
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "...É PORQUE VOCÊ JÁ PAGOU. SÓ NÃO SABE AINDA COM O QUÊ."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "pagina": 15,
+  "cenario": "estrada, manhã cinzenta",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano conjunto",
+      "cena": "O grupo parado no meio da estrada, discutindo. Ao fundo, pequeno e distante, o carrinho do goblin sumindo na curva. Derken de braços cruzados, desconfiado.",
+      "personagens_esquerda_para_direita": [
+        "derken",
+        "gibby",
+        "will",
+        "iske",
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "VOCÊS VÃO MESMO CONFIAR NUM GOBLIN?"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Will (sem óculos), pensativo, segurando o livro fechado contra o peito.",
+      "personagens_esquerda_para_direita": [
+        "will"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "NÃO. MAS A MAYA RECONHECEU A LENDA. ISSO NÃO VEIO SÓ DA BOCA DELE."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "primeiro plano",
+      "cena": "Maya olhando para Eve nos braços de Iske, com a flecha cravada na parte superior esquerda do abdômen. As veias verdes já chegaram ao pescoço e ao queixo de Eve. Expressão decidida e triste.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "EU NÃO TENHO OUTRA RESPOSTA. SE EXISTIR UMA CHANCE, EU VOU."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano conjunto, de costas",
+      "cena": "Iske ajeita Eve no colo e começa a andar pela estrada sem esperar ninguém. Os outros se entreolham e o seguem.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "iske",
+          "fora_do_quadro": false,
+          "texto": "ENTÃO VAMOS."
+        }
+      ]
+    }
+  ]
+}

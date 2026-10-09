@@ -1,0 +1,113 @@
+{
+  "pagina": 18,
+  "cenario": "noite no pântano, fogueira",
+  "estilo": "estilo_fogueira.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "close",
+      "cena": "Maya sem saber o que dizer, olhos cheios de lágrimas atrás dos óculos.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "ENTÃO NÃO PARA. POR FAVOR."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "primeiro plano",
+      "cena": "Eve solta uma risada curta e cansada, olhando para Maya com carinho.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "ENGRAÇADO. LÁ NO SANTUÁRIO FUI EU QUE DISSE PRA VOCÊ FICAR ATRÁS DE MIM."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano de detalhe",
+      "cena": "As mãos de Maya apertando a mão de Eve. No antebraço de Maya, a marca dourada; no de Eve, a marca rachada de verde.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "AGORA É A MINHA VEZ."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano médio",
+      "cena": "Do outro lado da fogueira, Derken observa as duas e vira o rosto para Will.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "O GOBLIN DISSE QUE NÓS AJUDAMOS ELE. VOCÊ LEMBRA DE TER AJUDADO ALGUM GOBLIN?"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "enquadramento": "primeiro plano",
+      "cena": "Will (sem óculos) mexendo no fogo com um graveto, pensativo, rosto iluminado pelas brasas.",
+      "personagens_esquerda_para_direita": [
+        "will"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "NÃO. E É ISSO QUE ME INCOMODA."
+        }
+      ]
+    }
+  ]
+}

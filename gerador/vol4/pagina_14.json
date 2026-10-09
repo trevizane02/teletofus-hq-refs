@@ -1,0 +1,121 @@
+{
+  "pagina": 14,
+  "cenario": "estrada, manhã cinzenta",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Gibby sentado na beirada do carrinho, gesticulando de forma teatral, como quem conta uma lenda. Os cinco ouvindo.",
+      "personagens_esquerda_para_direita": [
+        "gibby",
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "NO PÂNTANO, DEPOIS DA FLORESTA, MORAR UMA HIDRA. GRANDE, GRANDE HIDRA. MUITAS CABEÇAS. MUITO VELHA."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "quadro de lenda, estilo ilustração antiga em tons sépia e dourado",
+      "cena": "A silhueta de uma hidra enorme de cinco cabeças dentro de uma masmorra de pedra alagada, com uma luz dourada brilhando no centro do peito.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": true,
+          "texto": "HIDRA GUARDAR ALMA DE CURA. QUEM MATAR HIDRA, PEGAR ALMA. ALMA CURAR TUDO. CURAR ATÉ FLECHA RUIM."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "close",
+      "cena": "Maya arregala os olhos atrás dos óculos, reconhecendo algo.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "A GUARDIÃ DO PÂNTANO... CALIMOS FALAVA DELA NOS LIVROS ANTIGOS DOS ARAUTOS."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano médio",
+      "cena": "Gibby empurrando o carrinho estrada abaixo, se afastando, acenando sem olhar para trás.",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "SÓ OS MAIS FORTES ENTRAR. GIBBY NUNCA CONSEGUIR CHEGAR LÁ."
+        },
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "MAS É DE GRAÇA SÓ UMA VEZ, HUMANOS! KI KI KI!"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "enquadramento": "plano de detalhe",
+      "cena": "O carrinho se afastando: entre as panelas e frascos, um pequeno cristal verde-esmeralda brilhante, igual à ponta da flecha (referência do fragmento de mana). Nenhum personagem.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [
+        "fragmento_mana.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "NINGUÉM PERGUNTOU POR QUE ELE ESTAVA TÃO FELIZ. DEVERIAM TER PERGUNTADO."
+        }
+      ]
+    }
+  ]
+}

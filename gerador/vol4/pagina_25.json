@@ -1,0 +1,96 @@
+{
+  "pagina": 25,
+  "cenario": "4 quadros (combate coordenado, ritmo rápido)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": false,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano conjunto, ação",
+      "cena": "Iske corta uma cabeça da hidra; no mesmo instante, Will lança um selo mágico dourado em forma de círculo rúnico sobre o toco, que se fecha sem regenerar.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "sfx",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "SHHRAK!"
+        },
+        {
+          "tipo": "sfx",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "VWOOM!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Outra cabeça da hidra cortada e selada com luz dourada; a hidra urra de dor, as cabeças restantes se contorcendo.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano geral, ação",
+      "cena": "Derken correndo sobre pedras e colunas caídas na água, atraindo três cabeças da hidra para longe do grupo, disparando o arco enquanto corre.",
+      "personagens_esquerda_para_direita": [
+        "derken"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "grito",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "AQUI, SUA LAGARTA CRESCIDA!"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "primeiro plano",
+      "cena": "Maya com os olhos brilhando em verde, apontando com precisão para a esquerda.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "ESQUERDA! A PRÓXIMA VAI ATACAR PELA ESQUERDA!"
+        }
+      ]
+    }
+  ]
+}

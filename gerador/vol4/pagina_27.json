@@ -1,0 +1,90 @@
+{
+  "pagina": 27,
+  "cenario": "4 quadros (clímax da batalha)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano conjunto",
+      "cena": "Só resta a cabeça central da hidra; os outros pescoços estão cortados e selados com runas douradas. Iske prende a cabeça central contra o chão com o corpo inteiro, músculos tensos.",
+      "personagens_esquerda_para_direita": [
+        "iske"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "grito",
+          "falante": "iske",
+          "fora_do_quadro": false,
+          "texto": "AGORA!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano de detalhe",
+      "cena": "Uma flecha de Derken crava entre as escamas do peito da hidra, abrindo uma fresta de onde escapa uma luz dourada intensa.",
+      "personagens_esquerda_para_direita": [
+        "derken"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio, contra-plongée",
+      "cena": "Eve, cambaleando, com a flecha cravada na parte superior esquerda do abdômen, usa as últimas forças e crava a espada exatamente na fresta brilhante do peito da hidra. Luz dourada explodindo ao redor dela.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 4,
+      "enquadramento": "close",
+      "cena": "O olho amarelo da hidra se acalma, quase aliviado, a luz se apagando suavemente.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "ELA NÃO LUTAVA POR ÓDIO. LUTAVA PORQUE GUARDAVA ALGO."
+        },
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "E, DEPOIS DE TANTOS SÉCULOS, ESTAVA CANSADA DE GUARDAR."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "pagina": 1,
+  "cenario": "página inteira, sem quadros (pântano enevoado)",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "pagina_inteira_com_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "página inteira",
+      "cena": "Os cinco heróis (Will, Iske, Eve, Maya e Derken) atravessam um pântano enevoado, vistos de frente em plano conjunto, com água escura até os joelhos. Iske carrega Eve nos braços: ela está pálida, de olhos semicerrados, com uma flecha cravada na parte superior esquerda do abdômen, logo abaixo da placa do peito; no antebraço dela as veias douradas da marca estão rachadas, com veias verde-escuras subindo pelo pescoço. Maya caminha ao lado, preocupada, abraçando o livro. Will (sem óculos, chapéu de mago) e Derken (arco na mão) atentos, olhando ao redor. Ao fundo, dentro da névoa, a silhueta gigantesca da hidra com CINCO cabeças erguidas, igual à referência hidra.jpg, e um brilho dourado no centro do peito. No céu, fragmentos de terra flutuando, com raios esverdeados. Iluminação: névoa verde-musgo, brilho dourado distante, luz fria. - Título no topo, grande, em letras douradas envelhecidas: (texto listado abaixo) - Logo abaixo do título: (texto listado abaixo) - Abaixo: (texto listado abaixo) - Abaixo, em destaque: (texto listado abaixo) - No rodapé, ao lado do símbolo do Teletofus (caveira encapuzada dourada com rosa dos ventos): (texto listado abaixo)",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [
+        "hidra.jpg",
+        "fragmento_mana.jpg",
+        "logo_teletofus.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "TELETOFUS"
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "— A CULPA DE ALTHERYN —"
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "VOLUME 4"
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "A ALMA DA HIDRA"
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "MMORPG DE DIFICULDADE EXTREMA"
+        }
+      ]
+    }
+  ]
+}

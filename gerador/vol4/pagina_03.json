@@ -1,0 +1,97 @@
+{
+  "pagina": 3,
+  "cenario": "4 quadros horizontais empilhados (taverna, depois transição)",
+  "estilo": "estilo_taverna.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": false,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Vorteus servindo vinho na própria taça, olhando para a taça e não para o Aventureiro.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro",
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "A EVE NÃO MORREU NAQUELA NOITE."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "primeiro plano",
+      "cena": "O Aventureiro solta o ar, aliviado, encostando na cadeira.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "aventureiro",
+          "fora_do_quadro": false,
+          "texto": "EU SABIA."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "close dramático",
+      "cena": "Vorteus ergue os olhos, sério, sem sorriso, rosto iluminado pela vela.",
+      "personagens_esquerda_para_direita": [
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "EU NÃO DISSE QUE FOI BOM."
+        },
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "TEM COISA PIOR QUE MORRER, GAROTO. UMA DELAS É DEIXAR DE SER VOCÊ AOS POUCOS."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "quadro de transição",
+      "cena": "A chama da vela em primeiro plano se dissolve em um brilho verde espectral, revelando ao fundo os corredores de raízes do Santuário de Altheryn, escuros, com veias verdes luminosas. Nenhum personagem neste quadro.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "VOLTEMOS AO SANTUÁRIO. AO INSTANTE EM QUE A FLECHA ENCONTROU SEU ALVO."
+        }
+      ]
+    }
+  ]
+}

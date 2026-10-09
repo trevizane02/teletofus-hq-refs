@@ -1,0 +1,80 @@
+{
+  "pagina": 17,
+  "cenario": "noite no pântano, fogueira pequena, névoa",
+  "estilo": "estilo_fogueira.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano geral",
+      "cena": "Uma pequena ilha de terra firme no meio do pântano escuro, com uma fogueira. Iske cozinhando em silêncio num espeto. Luz âmbar da fogueira contra o azul frio da noite. Sem texto.",
+      "personagens_esquerda_para_direita": [
+        "iske"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Maya troca as faixas ao redor da flecha cravada na parte superior esquerda do abdômen de Eve. A marca no antebraço de Eve está rachada, e as rachaduras verdes brilham no escuro. Sem texto.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "Eve segura o pulso de Maya com força. Pela primeira vez sem sorriso, séria e com medo.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "MAYA. EU TÔ OUVINDO UMA COISA."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "close dramático",
+      "cena": "Rosto de Eve iluminado pela fogueira de um lado e por um brilho verde do outro. Olhos marejados.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "UMA VOZ. NÃO É BEM UMA VOZ... É UMA VONTADE. ELA QUER QUE EU PARE DE LUTAR."
+        }
+      ]
+    }
+  ]
+}

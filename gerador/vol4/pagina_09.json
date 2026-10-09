@@ -1,0 +1,94 @@
+{
+  "pagina": 9,
+  "cenario": "estrada de terra na borda da floresta, manhã cinzenta e fria",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano geral",
+      "cena": "A estrada sai da Floresta Sombria em direção a uma planície aberta; céu cinzento; fragmentos de terra flutuando ao longe. Os cinco caminham cansados; Iske carrega Eve nos braços, pálida e suada, com a flecha cravada na parte superior esquerda do abdômen e veias verdes subindo pelo pescoço.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve",
+        "will",
+        "maya",
+        "derken"
+      ],
+      "objetos": [
+        "fragmento_mana.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "ELES SEGUIRAM A ESTRADA SEM DESTINO. TORCENDO PARA ENCONTRAR UM CURANDEIRO, UMA VILA, QUALQUER COISA."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano de detalhe",
+      "cena": "Uma curva da estrada atrás de árvores; só se vê uma roda de madeira torta de um carrinho entrando no quadro e poeira.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "sfx",
+          "falante": "discreto",
+          "fora_do_quadro": false,
+          "texto": "NHEC... NHEC... NHEC..."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "Derken para e ergue a mão aberta, alerta, olhando para trás. Os outros param atrás dele.",
+      "personagens_esquerda_para_direita": [
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "ALGUÉM VEM AÍ."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano conjunto, contra-plongée leve",
+      "cena": "Da curva surge GIBBY, o goblin mercador (igual à ficha anexada), empurrando o carrinho lotado com o grande martelo de runas douradas no topo. Sorri de orelha a orelha ao ver o grupo. Sem texto.",
+      "personagens_esquerda_para_direita": [
+        "gibby",
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": []
+    }
+  ]
+}

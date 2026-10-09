@@ -1,0 +1,83 @@
+{
+  "pagina": 20,
+  "cenario": "3 quadros (interior da masmorra, escuro, úmido, luz verde fraca e tochas)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano geral, quadro grande",
+      "cena": "Corredores de pedra alagados, água escura até os joelhos. Ossos e restos de armaduras de antigos aventureiros presos nas paredes cobertas de musgo; escamas gigantes e antigas boiando na água. Os cinco avançando em fila, Derken à frente com uma tocha, Iske amparando Eve, que segue com a flecha cravada na parte superior esquerda do abdômen.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve",
+        "derken",
+        "will",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "MUITOS TINHAM ENTRADO ALI ANTES DELES. NENHUM TINHA SAÍDO."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Derken agachado, levantando da água uma escama verde-musgo do tamanho de um escudo. Will atrás, com cara de pavor.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "SE UMA ESCAMA TEM ESSE TAMANHO..."
+        },
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "POR FAVOR, NÃO TERMINA ESSA FRASE."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "close",
+      "cena": "Maya parada, os olhos brilhando em verde por trás dos óculos redondos, como quando ela sente o fluxo de mana. Expressão serena e triste.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "EU SINTO ELA. LÁ EMBAIXO. É UMA PRESENÇA VELHA... E CANSADA."
+        }
+      ]
+    }
+  ]
+}

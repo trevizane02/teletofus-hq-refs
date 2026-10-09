@@ -1,0 +1,96 @@
+{
+  "pagina": 16,
+  "cenario": "viagem até o pântano, passagem de tempo",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano geral",
+      "cena": "A floresta fica úmida e retorcida, árvores tortas cobertas de musgo, chão virando lama. Os cinco pequenos na paisagem, caminhando em fila.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "FORAM TRÊS DIAS ATÉ O PÂNTANO. A CADA UM DELES, EVE FALAVA UM POUCO MENOS."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano conjunto",
+      "cena": "Derken abrindo caminho entre cipós com a adaga; Will (sem óculos) logo atrás consultando um mapa amassado. Névoa baixa.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano geral extremo",
+      "cena": "O céu sobre o pântano: enormes fragmentos de terra flutuando, alguns despejando cachoeiras de lama no vazio, raios esverdeados. O grupo minúsculo embaixo. Sem texto.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [
+        "fragmento_mana.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano médio",
+      "cena": "Eve, com a flecha cravada na parte superior esquerda do abdômen, carregada nas costas de Iske, cabeça apoiada no ombro dele, olhos fechados, meio sorriso. Iske sério, olhando para frente.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "GRANDÃO... VOCÊ TÁ CHEIRANDO A JAVALI."
+        },
+        {
+          "tipo": "fala",
+          "falante": "iske",
+          "fora_do_quadro": false,
+          "texto": "VOCÊ TAMBÉM."
+        }
+      ]
+    }
+  ]
+}

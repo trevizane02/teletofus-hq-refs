@@ -1,0 +1,93 @@
+{
+  "pagina": 2,
+  "cenario": "4 quadros horizontais empilhados (taverna, noite)",
+  "estilo": "estilo_taverna.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": false,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano geral",
+      "cena": "Interior da Taverna do Corvo Torto, cheia, à noite, luz quente de velas. Vorteus sentado sozinho na mesa de sempre, taça de vinho na mão, alaúde encostado na cadeira, sorriso tranquilo.",
+      "personagens_esquerda_para_direita": [
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "ELE VOLTOU NA NOITE SEGUINTE. MAIS CEDO DO QUE NUNCA."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "O Aventureiro chega apressado e se senta de frente para Vorteus, batendo uma moeda dourada com uma árvore gravada sobre a mesa. Expressão ansiosa.",
+      "personagens_esquerda_para_direita": [
+        "aventureiro",
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "aventureiro",
+          "fora_do_quadro": false,
+          "texto": "ELA MORREU OU NÃO?"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "close",
+      "cena": "Vorteus sorri devagar, sem pressa, girando a taça.",
+      "personagens_esquerda_para_direita": [
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "BOA NOITE PRA VOCÊ TAMBÉM, GAROTO."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano de detalhe",
+      "cena": "Close da moeda dourada com a árvore gravada sobre a mesa de madeira, iluminada por uma vela. A mão de Vorteus, com anéis, aparece apontando para ela.",
+      "personagens_esquerda_para_direita": [
+        "vorteus"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "vorteus",
+          "fora_do_quadro": false,
+          "texto": "AINDA TROUXE A MOEDA. BOM. MUITO BOM."
+        }
+      ]
+    }
+  ]
+}

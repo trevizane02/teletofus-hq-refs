@@ -1,0 +1,113 @@
+{
+  "pagina": 13,
+  "cenario": "estrada, manhã cinzenta",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio, ação",
+      "cena": "Gibby pula na frente do grupo, bloqueando a estrada com os braços abertos.",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "NÃO, NÃO, NÃO! ESPERA! GIBBY DAR DE GRAÇA!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano conjunto",
+      "cena": "Os cinco param, desconfiados. Will (sem óculos) de braços cruzados, sobrancelha erguida.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "DE GRAÇA. UM GOBLIN. DE GRAÇA."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "Gibby bate no peito, orgulhoso, sorriso enorme.",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "GIBBY GOSTAR DO HUMANO. HUMANO AJUDOU GIBBY."
+        },
+        {
+          "tipo": "fala",
+          "falante": "gibby",
+          "fora_do_quadro": false,
+          "texto": "ENTÃO AGORA GIBBY AJUDAR HUMANO. KI KI KI! HUMANO SER MARAVILHOSO!"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "primeiro plano",
+      "cena": "Will franze a testa, confuso e desconfiado.",
+      "personagens_esquerda_para_direita": [
+        "will"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "A GENTE NUNCA TE VIU NA VIDA."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "enquadramento": "close",
+      "cena": "Gibby apenas pisca um olho, com um sorriso torto. Sem texto.",
+      "personagens_esquerda_para_direita": [
+        "gibby"
+      ],
+      "objetos": [],
+      "textos": []
+    }
+  ]
+}

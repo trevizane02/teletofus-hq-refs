@@ -1,0 +1,101 @@
+{
+  "pagina": 19,
+  "cenario": "amanhecer pálido no pântano",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano geral",
+      "cena": "A névoa se abre e revela, no centro do pântano, ruínas de pedra antigas parcialmente submersas: uma entrada em arco coberta de musgo, com escamas gigantes esculpidas na pedra ao redor da porta.",
+      "personagens_esquerda_para_direita": [],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "A MASMORRA NÃO PARECIA TER SIDO CONSTRUÍDA. PARECIA TER CRESCIDO ALI, COMO UMA FERIDA."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano conjunto, de costas",
+      "cena": "Os cinco diante da entrada, com água escura até os joelhos.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "UMA MASMORRA ONDE SÓ OS MAIS FORTES ENTRAM. QUE CONVIDATIVO."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "Eve, apoiada em Iske, tenta ficar de pé sozinha e pega o escudo, cambaleando, a mão livre ao redor da flecha cravada na parte superior esquerda do abdômen.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "EU VOU JUNTO."
+        },
+        {
+          "tipo": "fala",
+          "falante": "iske",
+          "fora_do_quadro": false,
+          "texto": "VOCÊ MAL FICA EM PÉ."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "primeiro plano, contra-plongée leve",
+      "cena": "Eve com o meio sorriso teimoso de volta, escudo no braço, veias verdes no pescoço.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "ENTÃO ME SEGURA DE PÉ. EU NÃO VOU FICAR ESPERANDO DO LADO DE FORA PRA MORRER SOZINHA."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pagina": 21,
+  "cenario": "SPLASH (página inteira, um único quadro)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "página inteira",
+      "cena": "Plano geral extremo de uma câmara subterrânea enorme e circular, meio submersa, com colunas antigas quebradas e raízes descendo do teto. No centro, enrolada sobre si mesma na água, a HIDRA igual à referência hidra.jpg: corpo de serpente colossal, CINCO cabeças de escamas verde-musgo, olhos amarelos, a maioria das cabeças ainda abaixada e adormecida, e uma luz dourada pulsando no centro do peito, por baixo das escamas, com veias de luz se espalhando. Os cinco heróis minúsculos na entrada da câmara, em silhueta, para mostrar a escala. Iluminação: feixes de luz pálida vindos de rachaduras no teto, brilho dourado do peito da hidra refletindo na água.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "recordatorio",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "A GUARDIÃ DO PÂNTANO. MAIS ANTIGA QUE OS REINOS. TALVEZ TÃO ANTIGA QUANTO O PRÓPRIO CERVO."
+        }
+      ]
+    }
+  ]
+}

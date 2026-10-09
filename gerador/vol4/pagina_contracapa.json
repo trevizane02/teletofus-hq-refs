@@ -1,0 +1,81 @@
+{
+  "pagina": "contracapa",
+  "cenario": "página inteira, sem quadros (mesmo layout das contracapas anteriores)",
+  "estilo": "estilo_floresta.jpg",
+  "modo": "pagina_inteira_com_texto",
+  "eve_com_flecha": false,
+  "grade": [
+    [
+      1
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "página inteira",
+      "cena": "Fundo escuro com moldura dourada ornamentada e galhos retorcidos nos cantos. Ilustração central: os cinco heróis vistos de costas, saindo da masmorra de pedra alagada no centro do pântano ao amanhecer. Eve caminha sozinha, de pé, SEM flecha no corpo, com o escudo nas costas, ao lado de Maya; Iske, Will e Derken logo atrás. Atrás deles, na entrada da masmorra, uma leve luz dourada se apagando. Névoa e fragmentos de terra flutuando no céu. Abaixo da ilustração, uma caixa de texto escura com borda dourada ornamentada, texto em tom bege, fonte serifada. - No topo, sob o símbolo do Teletofus, em letras douradas: (texto listado abaixo) - Abaixo do título: (texto listado abaixo) - Abaixo: (texto listado abaixo) - Título em destaque, letras douradas maiúsculas, entre a ilustração e a caixa: (texto listado abaixo) - Caixa de texto, parágrafo 1: (texto listado abaixo) - Caixa de texto, parágrafo 2: (texto listado abaixo) - Caixa de texto, parágrafo 3: (texto listado abaixo) - Abaixo da caixa: (texto listado abaixo) - No rodapé: o logo da Tofus Studio.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "iske",
+        "eve",
+        "maya",
+        "derken"
+      ],
+      "objetos": [
+        "fragmento_mana.jpg",
+        "logo_teletofus.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "TELETOFUS"
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "— A CULPA DE ALTHERYN —"
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "VOLUME 4"
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "TODO FAVOR TEM UM PREÇO."
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "Uma flecha sem dono. Uma marca que começa a apodrecer. E um mundo partido onde a cura não vem da mana, mas das almas daqueles que caem."
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "Para salvar Eve da corrupção que a consome por dentro, Will, Iske, Maya e Derken seguem uma pista dada pela criatura menos confiável de Teletofus: um goblin sorridente que, pela primeira vez, não cobra nada."
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "No coração do pântano, uma guardiã antiga espera. E o que os Cinco encontram depois da batalha prova que aquela flecha nunca foi um acaso."
+        },
+        {
+          "tipo": "capa",
+          "falante": null,
+          "fora_do_quadro": false,
+          "texto": "— VOLUME 4 —"
+        }
+      ]
+    }
+  ]
+}

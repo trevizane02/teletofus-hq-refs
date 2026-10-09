@@ -1,0 +1,61 @@
+{
+  "_como_editar": "Ficha fixa de cada personagem. 'referencia' é o corpo inteiro (mostra a roupa) e 'rosto' é o retrato. Os arquivos ficam em ../refs/.",
+  "estilo": "Dark fantasy comic art, painterly realism: realistic digital painting with realistic faces and anatomy, fine grainy brush texture, rich detail in cloth, leather and worn metal, deep near-black shadows, dramatic point lighting, dark vignette. Desaturated palette of dark brown, black, aged gold and amber; spectral green only for magic and corruption; cold blue only for night. NOT anime, NOT manga, NOT cartoon, no thick black outlines, no big anime eyes, no saturated or neon colors, NOT a photograph, NOT a film still, NOT a smooth 3D render.",
+  "personagens": {
+    "will": {
+      "nome": "WILL",
+      "referencia": "will_13.jpg",
+      "rosto": "will_01.jpg",
+      "ficha": "young male mage in his early 20s, dark brown curly hair, wide-brimmed drooping pointed wizard hat in near-black dark purple, torn dark purple poncho-cloak with tiny gold specks, belt with vials and scrolls, spellbook. NEVER glasses, NEVER a staff, NEVER an orb."
+    },
+    "iske": {
+      "nome": "ISKE",
+      "referencia": "iske_17.jpg",
+      "rosto": "iske_01.jpg",
+      "ficha": "tall muscular berserker in his early 30s, short black hair, clean-shaven face with only light stubble (NEVER a full beard), black studded LEATHER armor (NEVER metal plates, NEVER fur on the shoulders), long-handled battle axe with ONE single wide crescent blade (never double-bladed, never a sword)."
+    },
+    "eve": {
+      "nome": "EVE",
+      "referencia": "eve_13.jpg",
+      "rosto": "eve_01.jpg",
+      "ficha": "female paladin in her early 20s, blonde wavy hair in a high ponytail, ALWAYS in silver full PLATE ARMOR with gold details (NEVER a dress or white tunic), teal-blue tabard with gold emblem, pale translucent cape, round gold-ornamented shield and sword."
+    },
+    "maya": {
+      "nome": "MAYA",
+      "referencia": "maya_13.jpg",
+      "rosto": "maya_01.jpg",
+      "ficha": "18-year-old healer, very curly voluminous DARK BROWN almost black hair (NEVER red, ginger or copper), ROUND GLASSES with thin frames, grey scarf, worn olive-green and beige layered cloak, always holding a book. She is the ONLY character who wears glasses."
+    },
+    "derken": {
+      "nome": "DERKEN",
+      "referencia": "derken_13.jpg",
+      "rosto": "derken_01.jpg",
+      "ficha": "archer in his early 20s, messy BLACK hair, NO beard, no glasses, black leather, torn dark cloak, quiver on his back, longbow (his weapon is the bow, never a sword)."
+    },
+    "vorteus": {
+      "nome": "VORTEUS",
+      "referencia": "vorteus_13.jpg",
+      "rosto": "vorteus_01.jpg",
+      "ficha": "bard in his 40s, long very curly black hair, moustache and goatee, gold hoop earrings, purple coat with gold embroidery, rings, lute, glass of red wine."
+    },
+    "aventureiro": {
+      "nome": "AVENTUREIRO",
+      "referencia": "aventureiro_13.jpg",
+      "rosto": "aventureiro_01.jpg",
+      "ficha": "young man in his early 20s, short curly brown hair, no beard, no glasses, black scarf and black cloak, dark leather clothes; carries a gold coin engraved with a tree."
+    },
+    "gibby": {
+      "nome": "GIBBY",
+      "referencia": "gibby_13.jpg",
+      "rosto": "gibby_01.jpg",
+      "ficha": "small green goblin merchant (waist-high to a human), pointed ears with rings, yellow eyes, huge grin with sharp teeth, leather hood with goggles, mustard and brown rags, pushes a wooden cart full of goods with a big golden-rune hammer on top."
+    }
+  },
+  "objetos": {
+    "hidra.jpg": "THE HYDRA: colossal serpent body with EXACTLY FIVE heads (unless the scene says heads were cut or regrew), dark moss-green scales, spiky crests, red mouths full of teeth, glowing yellow eyes. ADD a golden light pulsing in the center of its chest under the scales.",
+    "fragmento_mana.jpg": "MANA FRAGMENT: small translucent faceted emerald-green crystal glowing from within, the size of an arrowhead.",
+    "eve_flecha.jpg": "EVE'S ARROW WOUND: a thin dark-shafted arrow with glowing green fletching is stuck in the UPPER LEFT ABDOMEN of Eve (her own left side, just below the ribs, on the heart side; viewer's right when she faces the camera), between the bottom edge of her breastplate and her belt, angled upward and outward, a little dark blood. Never in the chest, shoulder, waist or hip.",
+    "logo_teletofus.jpg": "OFFICIAL LOGO: reproduce the TELETOFUS title with this exact gold typography and the symbol above it."
+  },
+  "marca": "The five heroes (Will, Iske, Eve, Maya, Derken) have a glowing golden root-like vein mark on the forearm."
+}

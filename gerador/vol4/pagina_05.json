@@ -1,0 +1,92 @@
+{
+  "pagina": 5,
+  "cenario": "4 quadros (santuário)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano de detalhe",
+      "cena": "Close na flecha cravada na parte superior esquerda do abdômen de Eve, logo abaixo da placa do peito. Da ferida, finas veias verde-escuras começam a se espalhar pela pele, como raízes doentes.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [],
+      "textos": []
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Maya posiciona as duas mãos ao redor da flecha cravada na parte superior esquerda do abdômen de Eve; uma luz dourada fraca de cura surge entre os dedos dela. Expressão determinada.",
+      "personagens_esquerda_para_direita": [
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "EU VOU FECHAR ISSO. EU SEI FECHAR ISSO."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano médio",
+      "cena": "A luz dourada está sendo sugada pelas veias verdes, como água sumindo em terra seca. Maya recua as mãos, assustada.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "NÃO... ELA ESTÁ PUXANDO A CURA PRA DENTRO."
+        },
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "ESTÁ SE ALIMENTANDO DELA."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "close",
+      "cena": "Eve abre os olhos com esforço, suada e pálida, com um sorriso torto e debochado.",
+      "personagens_esquerda_para_direita": [
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "QUE CARA É ESSA... EU TÔ TÃO FEIA ASSIM?"
+        }
+      ]
+    }
+  ]
+}

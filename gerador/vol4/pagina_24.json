@@ -1,0 +1,115 @@
+{
+  "pagina": 24,
+  "cenario": "4 quadros (combate)",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Will com o livro de feitiços aberto, olhos correndo pelas páginas, enquanto o caos acontece atrás dele: cabeças da hidra atacando, água espirrando.",
+      "personagens_esquerda_para_direita": [
+        "will"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "REGENERAÇÃO... É A MESMA LÓGICA DO CERVO DE RAÍZES NO SANTUÁRIO."
+        },
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "SE EU SELAR O CORTE NA HORA, ELA NÃO REFAZ A CABEÇA!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano médio",
+      "cena": "Maya apontando para o peito da hidra, onde a luz dourada pulsa por baixo das escamas, olhos brilhando em verde.",
+      "personagens_esquerda_para_direita": [
+        "maya"
+      ],
+      "objetos": [
+        "hidra.jpg"
+      ],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "E NÃO ADIANTA SÓ CORTAR!"
+        },
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "A ALMA DELA ESTÁ ALI, NO CENTRO, ONDE BRILHA. É ISSO QUE MANTÉM TUDO VIVO!"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "enquadramento": "primeiro plano",
+      "cena": "Will fechando o livro, determinado, mão brilhando em dourado.",
+      "personagens_esquerda_para_direita": [
+        "will"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "ISKE CORTA, EU SELO. DERKEN, MANTÉM AS CABEÇAS OCUPADAS. MAYA, GUIA A GENTE!"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano médio",
+      "cena": "Eve encostada numa coluna quebrada, escudo no chão ao lado, ofegante, com a flecha cravada na parte superior esquerda do abdômen, observando. Will de costas em primeiro plano, virando o rosto para ela.",
+      "personagens_esquerda_para_direita": [
+        "will",
+        "eve"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "eve",
+          "fora_do_quadro": false,
+          "texto": "E EU?"
+        },
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "VOCÊ FICA VIVA. É A SUA ÚNICA TAREFA."
+        }
+      ]
+    }
+  ]
+}

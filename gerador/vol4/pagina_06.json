@@ -1,0 +1,89 @@
+{
+  "pagina": 6,
+  "cenario": "santuário, raízes se movendo",
+  "estilo": "estilo_santuario.jpg",
+  "modo": "quadros_sem_texto",
+  "eve_com_flecha": true,
+  "grade": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ]
+  ],
+  "notas": "",
+  "quadros": [
+    {
+      "n": 1,
+      "enquadramento": "plano médio",
+      "cena": "Iske ajoelhado ao lado de Eve segura a haste da flecha cravada na parte superior esquerda do abdômen dela, pronto para puxar. Maya agarra o pulso dele, desesperada. Eve, de olhos semicerrados, geme de dor.",
+      "personagens_esquerda_para_direita": [
+        "iske",
+        "eve",
+        "maya"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "maya",
+          "fora_do_quadro": false,
+          "texto": "NÃO! SE ARRANCAR, ELA SANGRA ATÉ MORRER!"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "enquadramento": "plano de detalhe",
+      "cena": "A mão de Iske arrancando das raízes do chão a OUTRA flecha do caçador, a que errou o alvo. A ponta NÃO é de metal: é um cristal verde-esmeralda translúcido e facetado, brilhando por dentro (igual à referência do fragmento de mana). Ao fundo, desfocada, a outra mão de Iske abrindo um saco de couro para guardá-la.",
+      "personagens_esquerda_para_direita": [
+        "iske"
+      ],
+      "objetos": [
+        "fragmento_mana.jpg"
+      ],
+      "textos": []
+    },
+    {
+      "n": 3,
+      "enquadramento": "plano geral",
+      "cena": "O chão do santuário treme; raízes enormes das paredes se movem e fecham os corredores. Will (sem óculos) olha ao redor, alarmado, com o livro aberto.",
+      "personagens_esquerda_para_direita": [
+        "will"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "will",
+          "fora_do_quadro": false,
+          "texto": "O SANTUÁRIO ESTÁ MUDANDO DE NOVO. SE FICARMOS, FICAMOS PRESOS."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "enquadramento": "plano médio",
+      "cena": "Derken aponta para um corredor ao fundo, por onde entra uma fresta de luz natural pálida e folhas sopradas pelo vento.",
+      "personagens_esquerda_para_direita": [
+        "derken"
+      ],
+      "objetos": [],
+      "textos": [
+        {
+          "tipo": "fala",
+          "falante": "derken",
+          "fora_do_quadro": false,
+          "texto": "ALI! TEM VENTO VINDO DE LÁ. É UMA SAÍDA."
+        }
+      ]
+    }
+  ]
+}
