@@ -9,9 +9,10 @@ IMAGENS ANEXADAS NESTA MENSAGEM (7) — são a identidade visual oficial:
 6. maya_01.jpg = identidade de MAYA
 7. maya_09.jpg = identidade de MAYA
 
-FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
-EVE: loira, rabo de cavalo alto, armadura de placas prateada com detalhes dourados, tabardo azul petróleo, capa clara, escudo redondo dourado.
-MAYA: cabelo CASTANHO-ESCURO muito cacheado e volumoso (nunca ruivo), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura, pele de animal, vestido ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+ESTILO: pintura digital semi-realista, sombria e DESSATURADA, igual à página de estilo anexada (tons marrons, pretos e dourado envelhecido). NÃO é anime, NÃO é mangá, sem contornos pretos grossos, sem olhos grandes de anime, sem cores saturadas.
+EVE: loira, rabo de cavalo alto, SEMPRE de ARMADURA DE PLACAS prateada com detalhes dourados cobrindo o corpo todo (NUNCA vestido, túnica ou roupa branca), tabardo azul petróleo, capa clara translúcida, escudo redondo dourado.
+MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
 
 Antes de gerar, confirme em uma linha que conseguiu ver as 7 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
 

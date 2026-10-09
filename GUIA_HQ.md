@@ -10,6 +10,7 @@ Roteiro do Volume 4 revisado: `roteiros/vol4_revisado.txt`
 ## 1. Estilo visual (todas as páginas)
 
 - Fantasia sombria, pintura digital detalhada e nítida. Não é cartum, não é anime, não é 3D. Sem textura pixelada ou de mosaico.
+- Semi-realista e DESSATURADO. Proibido: traço de anime ou mangá, contornos pretos grossos, olhos grandes, cores saturadas ou neon.
 - Página vertical 2:3 com fundo preto e moldura externa fina dourada, com ornamentos nos 4 cantos.
 - Cada quadro tem borda dourada FINA e contínua, cantos retos e espaço preto uniforme entre os quadros.
 - Paleta dessaturada: dourado envelhecido, marrom escuro, preto, cinza frio, azul petróleo, verde musgo e bege pergaminho.
@@ -88,13 +89,14 @@ Escolha o retrato 01 mais a referência que combina com o cenário ou a ação d
   - Capa-poncho roxo-escura rasgada, com pontinhos dourados.
   - Cinto com frascos, livro de feitiços. Magia azul (detecção) ou dourada (selos rúnicos).
 - **ISKE** (berserker, 30 e poucos): alto e forte, cabelo preto curto, rosto sério, armadura de couro preta com rebites.
+  - Rosto escanhoado (nunca barba cheia); nunca placas de metal nem pele de animal nos ombros.
   - ARMA: SEMPRE o mesmo machado de cabo longo de madeira escura, com UMA ÚNICA lâmina larga em meia-lua e uma ponta curta no topo.
   - NUNCA machado de duas lâminas, NUNCA espada.
 - **EVE** (paladina, 20 e poucos): loira, cabelo ondulado em rabo de cavalo alto.
-  - Armadura de placas prateada com detalhes dourados e tabardo azul petróleo com emblema dourado.
+  - SEMPRE de armadura de placas prateada com detalhes dourados (nunca vestido ou túnica branca) e tabardo azul petróleo com emblema dourado.
   - Capa clara translúcida, escudo redondo com ornamentos dourados e espada.
 - **MAYA** (curandeira, 18): a ÚNICA do grupo que usa óculos (redondos, armação fina).
-  - Cabelo castanho-escuro muito cacheado e volumoso, cachecol, manto verde-oliva e bege gasto.
+  - Cabelo castanho-escuro quase preto, muito cacheado e volumoso (nunca ruivo ou acobreado), cachecol, manto verde-oliva e bege gasto.
   - Sempre abraçada a um livro. Os olhos brilham em verde quando sente mana; a cura é dourada.
 - **DERKEN** (arqueiro, 20 e poucos): sem óculos, cabelo preto bagunçado, couro preto, capa escura rasgada.
   - Aljava nas costas e ARCO. A arma dele é o arco, nunca a espada.

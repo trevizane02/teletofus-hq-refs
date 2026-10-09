@@ -3,18 +3,19 @@ Gere a página abaixo seguindo as instruções do projeto.
 IMAGENS ANEXADAS NESTA MENSAGEM (9) — são a identidade visual oficial:
 1. estilo_santuario.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
 2. hidra.jpg = a HIDRA: copie a aparência (5 cabeças) e acrescente a luz dourada no peito
-3. will_01.jpg = identidade de WILL
+3. will_13.jpg = identidade de WILL
 4. will_09.jpg = identidade de WILL
-5. iske_01.jpg = identidade de ISKE
-6. iske_17.jpg = identidade de ISKE
-7. maya_01.jpg = identidade de MAYA
-8. maya_02.jpg = identidade de MAYA
-9. derken_01.jpg = identidade de DERKEN
+5. iske_17.jpg = identidade de ISKE
+6. iske_09.jpg = identidade de ISKE
+7. maya_13.jpg = identidade de MAYA
+8. maya_01.jpg = identidade de MAYA
+9. derken_13.jpg = identidade de DERKEN
 
-FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura, pele de animal, vestido ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
+ESTILO: pintura digital semi-realista, sombria e DESSATURADA, igual à página de estilo anexada (tons marrons, pretos e dourado envelhecido). NÃO é anime, NÃO é mangá, sem contornos pretos grossos, sem olhos grandes de anime, sem cores saturadas.
 WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
-ISKE: cabelo preto curto, sem barba, couro preto com rebites (NÃO armadura de metal), machado de UMA lâmina em meia-lua.
-MAYA: cabelo CASTANHO-ESCURO muito cacheado e volumoso (nunca ruivo), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
+ISKE: cabelo preto curto, rosto ESCANHOADO (só sombra de barba, NUNCA barba cheia), gibão de COURO PRETO com rebites (NUNCA placas de metal, NUNCA pele de animal ou pelo nos ombros), machado de UMA lâmina em meia-lua.
+MAYA: cabelo CASTANHO-ESCURO, quase preto, muito cacheado e volumoso (NUNCA ruivo, acobreado ou avermelhado), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
 DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
 
 Antes de gerar, confirme em uma linha que conseguiu ver as 9 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.

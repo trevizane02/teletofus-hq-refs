@@ -1,7 +1,7 @@
 COMO USAR (uma página por vez)
 1. Abra a pasta da página (ex.: pagina_02).
-2. Cole o texto do prompt.txt no chat (ou anexe o próprio prompt.txt).
-3. Arraste TODAS as imagens .jpg da pasta na mesma mensagem (no máximo 9 por pasta, para caber o prompt.txt no limite de 10 arquivos do ChatGPT).
+2. Copie todo o texto do prompt.txt e cole no chat do projeto.
+3. Arraste TODAS as imagens .jpg da mesma pasta para a mesma mensagem.
 4. Envie. Se algo sair errado, peça o ajuste na mesma conversa.
 
 Sem as imagens anexadas o ChatGPT desenha os personagens de memória (links não funcionam como referência visual).
