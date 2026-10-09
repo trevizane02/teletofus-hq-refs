@@ -10,7 +10,14 @@ Roteiro do Volume 4 revisado: `roteiros/vol4_revisado.txt`
 ## 1. Estilo visual (todas as páginas)
 
 - Fantasia sombria, pintura digital detalhada e nítida. Não é cartum, não é anime, não é 3D. Sem textura pixelada ou de mosaico.
-- Semi-realista e DESSATURADO. Proibido: traço de anime ou mangá, contornos pretos grossos, olhos grandes, cores saturadas ou neon.
+- ESTILO TRAVADO (todas as páginas, inclusive capa e contracapa): realismo pictórico de fantasia sombria.
+  - Pintura digital realista, rostos realistas com textura de pele, pinceladas finas e granuladas.
+  - Muito detalhe em tecido, couro e metal; sombras quase pretas; luz pontual; vinheta escura.
+- Proibido:
+  - anime, mangá, cartum, cel shading, contornos pretos grossos, olhos grandes, cores saturadas ou neon;
+  - também proibido parecer foto, still de filme ou render 3D liso.
+- Moldura: cada quadro tem borda dourada fina com pequenos ornamentos de filigrana nos 4 cantos.
+- Balões: brancos, com texto preto em fonte SERIFADA maiúscula.
 - Página vertical 2:3 com fundo preto e moldura externa fina dourada, com ornamentos nos 4 cantos.
 - Cada quadro tem borda dourada FINA e contínua, cantos retos e espaço preto uniforme entre os quadros.
 - Paleta dessaturada: dourado envelhecido, marrom escuro, preto, cinza frio, azul petróleo, verde musgo e bege pergaminho.
