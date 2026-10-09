@@ -1,11 +1,14 @@
-# Referências de personagens — Teletofus HQ
+# Teletofus HQ — referências e guia
 
-Imagens usadas pelo workflow do n8n "TELETOFUS — HQ página a página (v8)".
-A OpenAI baixa estas imagens direto pelo link, então o repositório precisa ser PÚBLICO.
+Repositório de referência para gerar as páginas da HQ **Teletofus — A Culpa de Altheryn**.
 
-- `refs/<personagem>_<01-18>.jpg` — 18 referências por personagem (01 = retrato de frente, 13 = corpo inteiro de frente)
-- `refs/continuidade_1.jpg` e `continuidade_2.jpg` — páginas publicadas com Vorteus e o Aventureiro
-- `refs/eve_flecha.jpg` — Eve com a flecha cravada na parte superior esquerda do abdômen (cena do Vol. 3). Anexada pelo fluxo em toda página em que a Eve ainda está com a flecha (até a pág. 29 do Vol. 4)
+- **`GUIA_HQ.md`** — regras oficiais: estilo, balões, grade, fichas dos personagens e continuidade. **Leia antes de gerar.**
+- **`roteiros/`** — roteiros revisados, página por página.
+- **`refs/`** — imagens de referência:
+  - `<personagem>_01.jpg` a `_18.jpg` (01 = retrato de frente; tabela completa no guia)
+  - `estilo_taverna / estilo_santuario / estilo_floresta / estilo_fogueira.jpg` — páginas aprovadas (acabamento)
+  - `hidra.jpg`, `fragmento_mana.jpg`, `eve_flecha.jpg` — objetos e continuidade
+  - `logo_teletofus.jpg`, `logo_simbolo.jpg` — capa e contracapa
+  - `continuidade_1.jpg`, `continuidade_2.jpg` — páginas publicadas com Vorteus e o Aventureiro
 
-Link para colar no n8n (CFG.url_referencias):
-https://raw.githubusercontent.com/trevizane02/teletofus-hq-refs/main/refs/
+Link direto de uma imagem: `https://raw.githubusercontent.com/trevizane02/teletofus-hq-refs/main/refs/NOME.jpg`

@@ -1,0 +1,310 @@
+TELETOFUS — A CULPA DE ALTHERYN — VOLUME 4: A ALMA DA HIDRA
+ROTEIRO REVISADO PARA O N8N 
+
+COMO USAR: cada página vai de uma linha "PÁGINA ..." (ou CAPA / CONTRACAPA) até a próxima linha "=====". Regras e fichas em GUIA_HQ.md.
+
+=====================================================================
+
+CAPA — página inteira, sem quadros (pântano enevoado)
+
+Os cinco heróis (Will, Iske, Eve, Maya e Derken) atravessam um pântano enevoado, vistos de frente em plano conjunto, com água escura até os joelhos. Iske carrega Eve nos braços: ela está pálida, de olhos semicerrados, com uma flecha cravada na parte superior esquerda do abdômen, logo abaixo da placa do peito; no antebraço dela as veias douradas da marca estão rachadas, com veias verde-escuras subindo pelo pescoço. Maya caminha ao lado, preocupada, abraçando o livro. Will (sem óculos, chapéu de mago) e Derken (arco na mão) atentos, olhando ao redor.
+Ao fundo, dentro da névoa, a silhueta gigantesca da hidra com CINCO cabeças erguidas, igual à referência hidra.jpg, e um brilho dourado no centro do peito. No céu, fragmentos de terra flutuando, com raios esverdeados.
+Iluminação: névoa verde-musgo, brilho dourado distante, luz fria.
+- Título no topo, grande, em letras douradas envelhecidas: "TELETOFUS"
+- Logo abaixo do título: "— A CULPA DE ALTHERYN —"
+- Abaixo: "VOLUME 4"
+- Abaixo, em destaque: "A ALMA DA HIDRA"
+- No rodapé, ao lado do símbolo do Teletofus (caveira encapuzada dourada com rosa dos ventos): "MMORPG DE DIFICULDADE EXTREMA"
+
+=====================================================================
+
+PÁGINA 2 — 4 quadros horizontais empilhados (taverna, noite)
+
+QUADRO 1 (plano geral): Interior da Taverna do Corvo Torto, cheia, à noite, luz quente de velas. Vorteus sentado sozinho na mesa de sempre, taça de vinho na mão, alaúde encostado na cadeira, sorriso tranquilo.
+Recordatório: "ELE VOLTOU NA NOITE SEGUINTE. MAIS CEDO DO QUE NUNCA."
+
+QUADRO 2 (plano médio): O Aventureiro chega apressado e se senta de frente para Vorteus, batendo uma moeda dourada com uma árvore gravada sobre a mesa. Expressão ansiosa.
+Balão do Aventureiro: "ELA MORREU OU NÃO?"
+
+QUADRO 3 (close): Vorteus sorri devagar, sem pressa, girando a taça.
+Balão de Vorteus: "BOA NOITE PRA VOCÊ TAMBÉM, GAROTO."
+
+QUADRO 4 (plano de detalhe): Close da moeda dourada com a árvore gravada sobre a mesa de madeira, iluminada por uma vela. A mão de Vorteus, com anéis, aparece apontando para ela.
+Balão de Vorteus: "AINDA TROUXE A MOEDA. BOM. MUITO BOM."
+
+=====================================================================
+
+PÁGINA 3 — 4 quadros horizontais empilhados (taverna, depois transição)
+
+QUADRO 1 (plano médio): Vorteus servindo vinho na própria taça, olhando para a taça e não para o Aventureiro.
+Balão de Vorteus: "A EVE NÃO MORREU NAQUELA NOITE."
+
+QUADRO 2 (primeiro plano): O Aventureiro solta o ar, aliviado, encostando na cadeira.
+Balão do Aventureiro: "EU SABIA."
+
+QUADRO 3 (close dramático): Vorteus ergue os olhos, sério, sem sorriso, rosto iluminado pela vela.
+Balão de Vorteus: "EU NÃO DISSE QUE FOI BOM."
+Balão de Vorteus: "TEM COISA PIOR QUE MORRER, GAROTO. UMA DELAS É DEIXAR DE SER VOCÊ AOS POUCOS."
+
+QUADRO 4 (quadro de transição): A chama da vela em primeiro plano se dissolve em um brilho verde espectral, revelando ao fundo os corredores de raízes do Santuário de Altheryn, escuros, com veias verdes luminosas. Nenhum personagem neste quadro.
+Recordatório: "VOLTEMOS AO SANTUÁRIO. AO INSTANTE EM QUE A FLECHA ENCONTROU SEU ALVO."
+
+=====================================================================
+
+PÁGINA 4 — 4 quadros (interior do santuário, escuro, raízes e brilho verde)
+
+QUADRO 1 (plano conjunto, quadro grande): Eve caída de costas no chão de pedra coberto de raízes, com uma flecha cravada na parte superior esquerda do abdômen dela, logo abaixo da placa do peito. Maya ajoelhada, segurando a cabeça de Eve no colo, desesperada. O escudo de Eve caído ao lado.
+Balão de Maya: "EVE! FICA COMIGO, POR FAVOR!"
+
+QUADRO 2 (plano médio): Derken com o arco tensionado e uma flecha encaixada, girando o corpo, procurando o atirador entre as raízes escuras.
+Balão de Derken: "CADÊ ELE? CADÊ ELE?"
+
+QUADRO 3 (plano médio): Will com a mão erguida; círculos mágicos azuis de detecção se apagando ao redor dele. Expressão frustrada.
+Balão de Will: "NADA. ELE NÃO ESTÁ EM LUGAR NENHUM."
+Balão de Will: "É COMO SE NUNCA TIVESSE EXISTIDO."
+
+QUADRO 4 (contra-plongée leve): Iske se posiciona na frente de Maya e Eve, machado erguido, encarando a escuridão, protetor. Eve continua caída no colo de Maya, atrás dele.
+Balão de Iske: "ENTÃO ELE AINDA ESTÁ AQUI."
+
+=====================================================================
+
+PÁGINA 5 — 4 quadros (santuário)
+
+QUADRO 1 (plano de detalhe): Close na flecha cravada na parte superior esquerda do abdômen de Eve, logo abaixo da placa do peito. Da ferida, finas veias verde-escuras começam a se espalhar pela pele, como raízes doentes.
+
+QUADRO 2 (plano médio): Maya posiciona as duas mãos ao redor da flecha cravada na parte superior esquerda do abdômen de Eve; uma luz dourada fraca de cura surge entre os dedos dela. Expressão determinada.
+Balão de Maya: "EU VOU FECHAR ISSO. EU SEI FECHAR ISSO."
+
+QUADRO 3 (plano médio): A luz dourada está sendo sugada pelas veias verdes, como água sumindo em terra seca. Maya recua as mãos, assustada.
+Balão de Maya: "NÃO... ELA ESTÁ PUXANDO A CURA PRA DENTRO."
+Balão de Maya: "ESTÁ SE ALIMENTANDO DELA."
+
+QUADRO 4 (close): Eve abre os olhos com esforço, suada e pálida, com um sorriso torto e debochado.
+Balão de Eve: "QUE CARA É ESSA... EU TÔ TÃO FEIA ASSIM?"
+
+=====================================================================
+
+PÁGINA 20 — 3 quadros (interior da masmorra, escuro, úmido, luz verde fraca e tochas)
+
+QUADRO 1 (plano geral, quadro grande): Corredores de pedra alagados, água escura até os joelhos. Ossos e restos de armaduras de antigos aventureiros presos nas paredes cobertas de musgo; escamas gigantes e antigas boiando na água. Os cinco avançando em fila, Derken à frente com uma tocha, Iske amparando Eve, que segue com a flecha cravada na parte superior esquerda do abdômen.
+Recordatório: "MUITOS TINHAM ENTRADO ALI ANTES DELES. NENHUM TINHA SAÍDO."
+
+QUADRO 2 (plano médio): Derken agachado, levantando da água uma escama verde-musgo do tamanho de um escudo. Will atrás, com cara de pavor.
+Balão de Derken: "SE UMA ESCAMA TEM ESSE TAMANHO..."
+Balão de Will: "POR FAVOR, NÃO TERMINA ESSA FRASE."
+
+QUADRO 3 (close): Maya parada, os olhos brilhando em verde por trás dos óculos redondos, como quando ela sente o fluxo de mana. Expressão serena e triste.
+Balão de Maya: "EU SINTO ELA. LÁ EMBAIXO. É UMA PRESENÇA VELHA... E CANSADA."
+
+=====================================================================
+
+PÁGINA 21 — SPLASH (página inteira, um único quadro)
+
+Plano geral extremo de uma câmara subterrânea enorme e circular, meio submersa, com colunas antigas quebradas e raízes descendo do teto. No centro, enrolada sobre si mesma na água, a HIDRA igual à referência hidra.jpg: corpo de serpente colossal, CINCO cabeças de escamas verde-musgo, olhos amarelos, a maioria das cabeças ainda abaixada e adormecida, e uma luz dourada pulsando no centro do peito, por baixo das escamas, com veias de luz se espalhando.
+Os cinco heróis minúsculos na entrada da câmara, em silhueta, para mostrar a escala.
+Iluminação: feixes de luz pálida vindos de rachaduras no teto, brilho dourado do peito da hidra refletindo na água.
+Recordatório: "A GUARDIÃ DO PÂNTANO. MAIS ANTIGA QUE OS REINOS. TALVEZ TÃO ANTIGA QUANTO O PRÓPRIO CERVO."
+
+=====================================================================
+
+PÁGINA 22 — 4 quadros (câmara da hidra)
+
+QUADRO 1 (plano conjunto): As cinco cabeças da hidra se erguendo uma a uma da água, abrindo olhos amarelos brilhantes. Os cinco heróis recuam um passo.
+
+QUADRO 2 (plano médio): A cabeça central da hidra se aproxima lentamente de Eve, que está apoiada em Iske, com a flecha cravada na parte superior esquerda do abdômen, e para a poucos centímetros dela, farejando. As outras cabeças sibilam ao redor.
+
+QUADRO 3 (close dramático): Close no olho amarelo enorme da hidra, refletindo a imagem pequena de Eve com a flecha cravada no abdômen e as veias verdes no pescoço.
+Balão de Maya (vindo de fora do quadro): "ELA SENTE A CORRUPÇÃO."
+
+QUADRO 4 (plano geral, ação): A hidra recua e ruge com as cinco bocas abertas ao mesmo tempo, água espirrando para todo lado.
+SFX: "GRRRAAAAAHHH!"
+Balão de Eve: "É... ACHO QUE ELA NÃO GOSTOU DE MIM."
+
+=====================================================================
+
+PÁGINA 23 — 4 quadros (combate, ritmo de ação)
+
+QUADRO 1 (plano médio, ação): Iske salta e corta uma das cabeças da hidra com o machado, num golpe brutal, água e sangue escuro voando.
+SFX: "SHHRAK!"
+
+QUADRO 2 (plano médio): Do toco cortado brotam na hora duas cabeças novas, ainda úmidas, rugindo. Will ao fundo, de boca aberta.
+Balão de Will: "AH, ÓTIMO. CLARO. POR QUE NÃO?"
+
+QUADRO 3 (plano médio): Derken disparando flechas com o arco nos olhos de duas cabeças, que recuam cegas.
+Balão de Derken: "NÃO CORTA! ELA REGENERA!"
+
+QUADRO 4 (primeiro plano): Iske rangendo os dentes, segurando uma das cabeças da hidra pelo pescoço com os dois braços, os pés afundando na água.
+Balão de Iske: "ENTÃO ALGUÉM PENSA RÁPIDO."
+
+=====================================================================
+
+PÁGINA 24 — 4 quadros (combate)
+
+QUADRO 1 (plano médio): Will com o livro de feitiços aberto, olhos correndo pelas páginas, enquanto o caos acontece atrás dele: cabeças da hidra atacando, água espirrando.
+Balão de Will: "REGENERAÇÃO... É A MESMA LÓGICA DO CERVO DE RAÍZES NO SANTUÁRIO."
+Balão de Will: "SE EU SELAR O CORTE NA HORA, ELA NÃO REFAZ A CABEÇA!"
+
+QUADRO 2 (plano médio): Maya apontando para o peito da hidra, onde a luz dourada pulsa por baixo das escamas, olhos brilhando em verde.
+Balão de Maya: "E NÃO ADIANTA SÓ CORTAR!"
+Balão de Maya: "A ALMA DELA ESTÁ ALI, NO CENTRO, ONDE BRILHA. É ISSO QUE MANTÉM TUDO VIVO!"
+
+QUADRO 3 (primeiro plano): Will fechando o livro, determinado, mão brilhando em dourado.
+Balão de Will: "ISKE CORTA, EU SELO. DERKEN, MANTÉM AS CABEÇAS OCUPADAS. MAYA, GUIA A GENTE!"
+
+QUADRO 4 (plano médio): Eve encostada numa coluna quebrada, escudo no chão ao lado, ofegante, com a flecha cravada na parte superior esquerda do abdômen, observando. Will de costas em primeiro plano, virando o rosto para ela.
+Balão de Eve: "E EU?"
+Balão de Will: "VOCÊ FICA VIVA. É A SUA ÚNICA TAREFA."
+
+=====================================================================
+
+PÁGINA 25 — 4 quadros (combate coordenado, ritmo rápido)
+
+QUADRO 1 (plano conjunto, ação): Iske corta uma cabeça da hidra; no mesmo instante, Will lança um selo mágico dourado em forma de círculo rúnico sobre o toco, que se fecha sem regenerar.
+SFX: "SHHRAK!"
+SFX: "VWOOM!"
+
+QUADRO 2 (plano médio): Outra cabeça da hidra cortada e selada com luz dourada; a hidra urra de dor, as cabeças restantes se contorcendo.
+
+QUADRO 3 (plano geral, ação): Derken correndo sobre pedras e colunas caídas na água, atraindo três cabeças da hidra para longe do grupo, disparando o arco enquanto corre.
+Balão de Derken: "AQUI, SUA LAGARTA CRESCIDA!"
+
+QUADRO 4 (primeiro plano): Maya com os olhos brilhando em verde, apontando com precisão para a esquerda.
+Balão de Maya: "ESQUERDA! A PRÓXIMA VAI ATACAR PELA ESQUERDA!"
+
+=====================================================================
+
+PÁGINA 26 — 4 quadros (combate, momento dramático)
+
+QUADRO 1 (plano médio, ação): Uma cabeça da hidra escapa da contenção e avança direto contra Maya, com as presas abertas. Maya paralisada.
+Balão de Will (vindo de fora do quadro): "MAYA!"
+
+QUADRO 2 (plano médio, impacto): Eve, ainda com a flecha cravada na parte superior esquerda do abdômen, se joga na frente de Maya e bloqueia a mordida da hidra com o escudo redondo. Impacto brutal, faíscas e água voando.
+SFX: "KRAAAM!"
+
+QUADRO 3 (close dramático): Rosto de Eve no esforço: as veias verdes acendem pelo pescoço e rosto e, por um instante, os olhos dela brilham em verde. Ela empurra a cabeça da hidra para trás com uma força que não deveria ter.
+
+QUADRO 4 (plano médio): Maya, caída na água atrás de Eve, olhando para ela espantada. Eve de costas para Maya, ainda com o escudo erguido.
+Balão de Maya: "EVE... SEUS OLHOS."
+Balão de Eve: "EU SEI. EU SENTI. ACABA LOGO COM ISSO."
+
+=====================================================================
+
+PÁGINA 27 — 4 quadros (clímax da batalha)
+
+QUADRO 1 (plano conjunto): Só resta a cabeça central da hidra; os outros pescoços estão cortados e selados com runas douradas. Iske prende a cabeça central contra o chão com o corpo inteiro, músculos tensos.
+Balão de Iske: "AGORA!"
+
+QUADRO 2 (plano de detalhe): Uma flecha de Derken crava entre as escamas do peito da hidra, abrindo uma fresta de onde escapa uma luz dourada intensa.
+
+QUADRO 3 (plano médio, contra-plongée): Eve, cambaleando, com a flecha cravada na parte superior esquerda do abdômen, usa as últimas forças e crava a espada exatamente na fresta brilhante do peito da hidra. Luz dourada explodindo ao redor dela.
+
+QUADRO 4 (close): O olho amarelo da hidra se acalma, quase aliviado, a luz se apagando suavemente.
+Recordatório: "ELA NÃO LUTAVA POR ÓDIO. LUTAVA PORQUE GUARDAVA ALGO."
+Recordatório: "E, DEPOIS DE TANTOS SÉCULOS, ESTAVA CANSADA DE GUARDAR."
+
+=====================================================================
+
+PÁGINA 28 — 4 quadros (câmara da hidra, depois da batalha)
+
+QUADRO 1 (plano geral, quadro grande): O corpo da hidra desabando na água, os pescoços selados caindo. Do peito aberto sobe uma esfera de luz dourada e esverdeada, com formas de serpentes girando dentro dela: a alma da hidra. A luz ilumina toda a câmara.
+Recordatório: "MANA ASSIM NÃO DESAPARECE. MAS ALMA TAMBÉM NÃO. ELA PROCURA ALGUÉM."
+
+QUADRO 2 (plano conjunto): A esfera de luz flutua devagar, passando diante de Iske, depois de Will, depois de Derken, que a observam imóveis.
+
+QUADRO 3 (plano médio): A esfera para diante de Maya. Ela estende as mãos, hesitante; a luz entra pelas palmas dela, e a marca no antebraço de Maya (veias douradas como raízes) se acende inteira em dourado intenso.
+
+QUADRO 4 (close): Maya de olhos fechados, com uma serenidade nova no rosto, iluminada por baixo pela luz dourada.
+Balão de Maya: "EU ENTENDO AGORA. NÃO É PARA GUARDAR. É PARA DEVOLVER."
+
+=====================================================================
+
+PÁGINA 29 — 4 quadros (a purificação, na câmara da hidra, água rasa, luz dourada)
+
+QUADRO 1 (plano médio): Eve caída de joelhos na água rasa, com a flecha cravada na parte superior esquerda do abdômen, as veias verdes já cobrindo metade do rosto, mal conseguindo manter os olhos abertos. Iske ajoelhado ao lado dela, segurando seus ombros.
+Balão de Eve: "SE NÃO DER CERTO... FALA PRO GRANDÃO QUE A COMIDA DELE ERA HORRÍVEL."
+Balão de Iske: "MENTIROSA."
+
+QUADRO 2 (plano médio, quadro grande): Maya coloca as duas mãos ao redor da flecha cravada na parte superior esquerda do abdômen de Eve. Desta vez a luz não é fraca: é dourada e intensa, com formas de serpentes de luz subindo pelos braços de Maya. Iske, Will e Derken ao redor, iluminados pelo brilho.
+
+QUADRO 3 (plano de detalhe): As veias verdes recuando pela pele de Eve, sendo puxadas de volta, uma a uma, do rosto e do pescoço em direção à flecha cravada na parte superior esquerda do abdômen, o ponto exato onde ela entrou.
+
+QUADRO 4 (plano médio, impacto): Eve arqueia as costas e grita; num clarão verde, a flecha é expelida da parte superior esquerda do abdômen e cai na água, com a ponta de cristal verde brilhando.
+SFX: "KRSSH!"
+
+=====================================================================
+
+PÁGINA 30 — 5 quadros (depois da cura)
+LAYOUT: 1 | 2 | 3+4 | 5
+
+QUADRO 1 (plano médio): Eve desaba nos braços de Maya, SEM a flecha, respirando normalmente, as veias verdes desaparecidas; na parte superior esquerda do abdômen, só um rasgo na armadura e uma ferida já fechada. No antebraço dela, a marca voltou a ser dourada, mas com uma pequena cicatriz verde permanente no centro.
+
+QUADRO 2 (close): Eve abre os olhos e sorri, cansada mas inteira, o rosto limpo de novo.
+Balão de Eve: "EU FALEI... QUE EU ERA BONITA DEMAIS PRA MORRER ASSIM."
+
+QUADRO 3 (plano de detalhe): A mão de Will tirando da água a flecha expelida; a ponta é um pequeno fragmento de mana: cristal verde-esmeralda, translúcido e facetado, com um brilho fraco por dentro.
+
+QUADRO 4 (plano de detalhe): A mão de Iske tirando do saco de couro a outra flecha do caçador, a que errou o alvo e ficou cravada nas raízes do santuário: a ponta é o mesmo cristal verde-esmeralda facetado. As duas pontas de cristal lado a lado, idênticas.
+Balão de Will (vindo de fora do quadro): "ISSO NÃO É PONTA DE FLECHA COMUM. É UM FRAGMENTO DE MANA."
+Balão de Will (vindo de fora do quadro): "ALGUÉM PRENDEU ALGUMA COISA AQUI DENTRO."
+
+QUADRO 5 (primeiro plano): Derken sério, olhando para os dois cristais, rosto iluminado pelo brilho verde.
+Balão de Derken: "ENTÃO QUEM ATIROU NÃO QUERIA MATAR A EVE. QUERIA COLOCAR ISSO DENTRO DELA."
+Recordatório: "NENHUM DELES LEMBROU DO PEQUENO BRILHO VERDE NO CARRINHO DO GOBLIN. AINDA."
+
+=====================================================================
+
+PÁGINA 31 — 5 quadros (Taverna do Corvo Torto, noite, luz de velas)
+
+QUADRO 1 (plano médio): O Aventureiro encostado na cadeira, aliviado, rindo sozinho, a moeda da árvore na mesa.
+Balão do Aventureiro: "EU SABIA QUE ELA NÃO IA MORRER."
+
+QUADRO 2 (plano médio): Vorteus girando o vinho na taça, com um sorriso de canto.
+Balão de Vorteus: "VOCÊ SABIA PORQUE EU CONTEI. LÁ NO PÂNTANO, NINGUÉM SABIA DE NADA."
+
+QUADRO 3 (primeiro plano): O Aventureiro inclinado para frente, a moeda entre os dedos, intrigado.
+Balão do Aventureiro: "E O GOBLIN? POR QUE ELE AJUDOU DE GRAÇA?"
+Balão do Aventureiro: "ELE DISSE QUE ELES TINHAM AJUDADO ELE. ELES NUNCA TINHAM VISTO AQUELE GOBLIN."
+
+QUADRO 4 (close dramático): Vorteus, pela primeira vez sem sorrir, olhar sério e profundo, luz da vela no rosto.
+Balão de Vorteus: "GAROTO, PRESTA ATENÇÃO: GOBLIN NENHUM DÁ NADA DE GRAÇA."
+Balão de Vorteus: "QUANDO UM DELES DIZ QUE TE DEVE UM FAVOR..."
+
+QUADRO 5 (plano médio): Vorteus bebendo um gole de vinho, olhos fixos no Aventureiro por cima da taça.
+Balão de Vorteus: "...É PORQUE VOCÊ JÁ PAGOU. SÓ NÃO SABE AINDA COM O QUÊ."
+
+=====================================================================
+
+PÁGINA 32 — 5 quadros (Taverna do Corvo Torto, fecho do volume)
+LAYOUT: 1+2 | 3 | 4 | 5
+
+QUADRO 1 (primeiro plano): O Aventureiro inquieto, quase se levantando da cadeira.
+Balão do Aventureiro: "ENTÃO ME CONTA. QUEM É ELE?"
+
+QUADRO 2 (plano médio): Vorteus sorrindo de novo, recuperando o jeito de sempre, enchendo a taça do Aventureiro com uma jarra.
+Balão de Vorteus: "AH, ESSA É UMA HISTÓRIA BEM MAIS ANTIGA QUE A DOS CINCO. TEM DOIS IRMÃOS NELA."
+
+QUADRO 3 (close): O Aventureiro intrigado, sobrancelhas franzidas.
+Balão do Aventureiro: "DOIS IRMÃOS?"
+
+QUADRO 4 (plano geral da taverna): A taverna cheia vista de longe. Num canto escuro, uma figura encapuzada se levanta e sai pela porta; pela fresta do capuz, um leve brilho arroxeado. Vorteus e o Aventureiro pequenos na mesa ao fundo.
+Balão de Vorteus: "OUTRA NOITE, GAROTO. OUTRA NOITE."
+
+QUADRO 5 (plano de detalhe): A moeda dourada com a árvore gravada sobre a mesa, ao lado de uma vela e da taça cheia de vinho.
+Recordatório: "TODO FAVOR TEM UM PREÇO. ALGUNS SÓ SÃO COBRADOS MUITO TEMPO DEPOIS."
+
+=====================================================================
+
+CONTRACAPA — página inteira, sem quadros (mesmo layout das contracapas anteriores)
+
+Fundo escuro com moldura dourada ornamentada e galhos retorcidos nos cantos.
+Ilustração central: os cinco heróis vistos de costas, saindo da masmorra de pedra alagada no centro do pântano ao amanhecer. Eve caminha sozinha, de pé, SEM flecha no corpo, com o escudo nas costas, ao lado de Maya; Iske, Will e Derken logo atrás. Atrás deles, na entrada da masmorra, uma leve luz dourada se apagando. Névoa e fragmentos de terra flutuando no céu.
+Abaixo da ilustração, uma caixa de texto escura com borda dourada ornamentada, texto em tom bege, fonte serifada.
+- No topo, sob o símbolo do Teletofus, em letras douradas: "TELETOFUS"
+- Abaixo do título: "— A CULPA DE ALTHERYN —"
+- Abaixo: "VOLUME 4"
+- Título em destaque, letras douradas maiúsculas, entre a ilustração e a caixa: "TODO FAVOR TEM UM PREÇO."
+- Caixa de texto, parágrafo 1: "Uma flecha sem dono. Uma marca que começa a apodrecer. E um mundo partido onde a cura não vem da mana, mas das almas daqueles que caem."
+- Caixa de texto, parágrafo 2: "Para salvar Eve da corrupção que a consome por dentro, Will, Iske, Maya e Derken seguem uma pista dada pela criatura menos confiável de Teletofus: um goblin sorridente que, pela primeira vez, não cobra nada."
+- Caixa de texto, parágrafo 3: "No coração do pântano, uma guardiã antiga espera. E o que os Cinco encontram depois da batalha prova que aquela flecha nunca foi um acaso."
+- Abaixo da caixa: "— VOLUME 4 —"
+- No rodapé: o logo da Tofus Studio.
