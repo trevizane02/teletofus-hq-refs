@@ -1,6 +1,6 @@
 Gere a página abaixo seguindo as instruções do projeto.
 
-IMAGENS ANEXADAS NESTA MENSAGEM (10) — são a identidade visual oficial:
+IMAGENS ANEXADAS NESTA MENSAGEM (9) — são a identidade visual oficial:
 1. estilo_santuario.jpg = página de estilo: copie SÓ o acabamento da pintura, a moldura e os balões
 2. fragmento_mana.jpg = fragmento de mana (cristal verde)
 3. will_01.jpg = identidade de WILL
@@ -8,9 +8,8 @@ IMAGENS ANEXADAS NESTA MENSAGEM (10) — são a identidade visual oficial:
 5. iske_01.jpg = identidade de ISKE
 6. iske_09.jpg = identidade de ISKE
 7. eve_01.jpg = identidade de EVE
-8. eve_05.jpg = identidade de EVE
-9. maya_01.jpg = identidade de MAYA
-10. derken_01.jpg = identidade de DERKEN
+8. maya_01.jpg = identidade de MAYA
+9. derken_01.jpg = identidade de DERKEN
 
 FIDELIDADE OBRIGATÓRIA: os personagens já existem. Não redesenhe nem reinvente. Copie de cada referência o rosto, a idade, a cor e a textura do cabelo, as roupas, as cores e as armas. Não invente barba, cajado, esfera, armadura ou cor de cabelo. A pose segue o roteiro; a identidade segue as imagens.
 WILL: cabelo castanho-escuro cacheado, chapéu de mago roxo quase preto de aba larga e caída, capa-poncho roxa rasgada com pontinhos dourados. SEM óculos, SEM cajado, SEM esfera.
@@ -19,7 +18,7 @@ EVE: loira, rabo de cavalo alto, armadura de placas prateada com detalhes dourad
 MAYA: cabelo CASTANHO-ESCURO muito cacheado e volumoso (nunca ruivo), ÓCULOS REDONDOS, cachecol, manto verde-oliva e bege, livro.
 DERKEN: cabelo PRETO bagunçado, SEM barba, couro preto, capa escura rasgada, aljava e ARCO.
 
-Antes de gerar, confirme em uma linha que conseguiu ver as 10 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
+Antes de gerar, confirme em uma linha que conseguiu ver as 9 imagens. Se alguma não abriu, NÃO gere: me diga qual falta.
 
 ROTEIRO:
 PÁGINA 30 — 5 quadros (depois da cura)
